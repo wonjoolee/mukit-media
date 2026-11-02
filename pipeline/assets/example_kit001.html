@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#999;display:flex;flex-wrap:wrap;gap:40px;padding:40px;width:3700px}
+:root{--paper:#F2EFE8;--ink:#151515;--acc:#D9481F;--mute:#8B877F}
+.card{width:1080px;height:1350px;background:var(--paper);color:var(--ink);position:relative;overflow:hidden;font-family:'Noto Sans CJK KR',sans-serif}
+.mono{font-family:'DejaVu Sans Mono',monospace}
+.top{position:absolute;left:64px;right:64px;top:56px;display:flex;justify-content:space-between;align-items:baseline;border-bottom:3px solid var(--ink);padding-bottom:18px}
+.top .mast{font-weight:900;font-size:44px;letter-spacing:6px}
+.top .mast small{font-weight:500;font-size:26px;letter-spacing:2px;margin-left:14px}
+.top .no{font-size:26px;letter-spacing:3px}
+.foot{position:absolute;left:64px;right:64px;bottom:52px;display:flex;justify-content:space-between;font-size:22px;letter-spacing:3px;color:var(--mute)}
+.label{position:absolute;left:64px;top:150px;font-size:24px;letter-spacing:4px;color:var(--acc)}
+.kicker{position:absolute;left:64px;font-size:26px;letter-spacing:4px;color:var(--acc)}
+.head{position:absolute;left:64px;right:64px;font-weight:900;line-height:1.22;letter-spacing:-1px}
+.body{position:absolute;left:64px;right:110px;font-size:33px;line-height:1.72;font-weight:500;word-break:keep-all}
+/* plate + loupe */
+.plate{position:absolute;left:0;top:0;width:1080px;height:1350px}
+.lens{position:absolute;border-radius:50%;overflow:hidden;border:10px solid var(--ink);background:var(--paper);box-shadow:0 18px 40px rgba(0,0,0,.18)}
+.lens .plate{background:var(--paper)}
+.handle{position:absolute;height:26px;background:var(--ink);border-radius:13px;transform-origin:0 50%}
+.cell{position:absolute;border:2px solid #CFCAC0}
+</style></head><body>
+
+<!-- ============ 01 COVER ============ -->
+<div class="card" id="c1">
+ <div class="plate" id="p1">
+  <div class="mono" style="position:absolute;left:64px;top:190px;width:952px;font-size:30px;line-height:2.05;letter-spacing:5px;color:#B4AEA3">
+   VCO-1 · VCO-2 · CROSS MOD · SYNC<br>VCF · HPF · RES · ENV MOD · KEY FLW<br>VCA · ENV-1 · ENV-2 · LFO · ARP<br>
+   <span style="color:var(--ink)">POLY · <b class="tg" style="color:var(--acc)">8</b> VOICES · 1981</span><br>
+   DUAL · SPLIT · HOLD · PORTAMENTO<br>PATCH 11–88 · BANK A–H · WRITE
+  </div>
+ </div>
+ <div class="lens" data-src="p1" data-cx="414" data-cy="557" data-k="5.4" style="left:250px;top:300px;width:470px;height:470px"></div>
+ <div class="handle" style="left:640px;top:720px;width:200px;transform:rotate(42deg)"></div>
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 001</div></div>
+ <div class="kicker mono" style="top:960px">ROLAND JUPITER-08</div>
+ <div class="head" style="top:1012px;font-size:66px">주피터-8이 45년 만에<br>손바닥 위로 왔다</div>
+ <div class="foot mono"><span>GEAR / SYNTH</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 02 WHY NOW ============ -->
+<div class="card" id="c2">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 001</div></div>
+ <div class="label mono">02 · 왜 지금</div>
+ <div class="mono" style="position:absolute;left:58px;top:220px;font-size:210px;font-weight:700;letter-spacing:-6px;line-height:1">1981<span style="color:var(--acc)">→</span></div>
+ <div class="mono" style="position:absolute;left:58px;top:430px;font-size:210px;font-weight:700;letter-spacing:-6px;line-height:1;color:var(--acc)">2026</div>
+ <div class="head" style="top:700px;font-size:56px">원본은 박물관에,<br>소리는 책상 위에</div>
+ <div class="body" style="top:880px">1981년의 주피터-8은 신스 역사에서 가장 오래 회자되는 이름 중 하나다. 롤랜드는 그 45주년에 맞춰 부티크 크기로 다시 냈다. 같은 날 부티크 첫 웨이브테이블 신스 n/vision도 함께 공개했다.</div>
+ <div class="foot mono"><span>2026.10.20 발표</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 03 DETAIL 1 : VOICES ============ -->
+<div class="card" id="c3">
+ <div class="plate" id="p3">
+  <div class="mono" style="position:absolute;left:64px;top:230px;width:952px;font-size:30px;letter-spacing:5px;color:#B4AEA3;line-height:2">
+   VOICE ASSIGN<br>
+   <span style="color:var(--ink)">DEFAULT ·· 08</span><br>
+   <span style="color:var(--ink)">EXPAND ··· <b class="tg" style="color:var(--acc)">32</b></span><br>
+   PART A / PART B
+  </div>
+ </div>
+ <div class="lens" data-src="p3" data-cx="420" data-cy="388" data-k="3.4" style="left:500px;top:240px;width:460px;height:460px"></div>
+ <div class="handle" style="left:890px;top:650px;width:140px;transform:rotate(48deg)"></div>
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 001</div></div>
+ <div class="label mono">03 · 여기를 보세요</div>
+ <div class="head" style="top:780px;font-size:56px">기본은 8보이스,<br>열면 32보이스</div>
+ <div class="body" style="top:960px">원본의 8파트·2보이스 구조를 그대로 두고, 내부 설정으로 동시 발음을 32보이스까지 늘린다. 원본의 방식은 지키고, 지금 쓰기 좋은 여유만 더했다.</div>
+ <div class="foot mono"><span>GEAR / SYNTH</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 04 DETAIL 2 : SEQUENCER ============ -->
+<div class="card" id="c4">
+ <div class="plate" id="p4"></div>
+ <div class="lens" data-src="p4" data-cx="527" data-cy="371" data-k="3.4" style="left:330px;top:255px;width:400px;height:400px"></div>
+ <div class="handle" style="left:672px;top:600px;width:150px;transform:rotate(45deg)"></div>
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 001</div></div>
+ <div class="label mono">04 · 여기를 보세요</div>
+ <div class="head" style="top:780px;font-size:56px">한 스텝에 여덟 음</div>
+ <div class="body" style="top:890px">2파트 64스텝 폴리 시퀀서. 스텝마다 최대 8음을 쌓고, 노브 움직임까지 기록한다. AA 건전지 4개와 내장 스피커가 있어 전원 없이도 돈다. 롤랜드 기준 약 6시간.</div>
+ <div class="foot mono"><span>GEAR / SYNTH</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 05 HONEST NUMBER ============ -->
+<div class="card" id="c5" style="background:var(--ink);color:var(--paper)">
+ <div class="plate" id="p5" style="background:var(--ink)">
+  <div class="mono" style="position:absolute;left:64px;top:250px;width:952px;font-size:30px;letter-spacing:5px;color:#5E5A54;line-height:2">
+   KEY ··· C3 · D3 · E3 · F3 · G3<br>
+   <span style="color:var(--paper)">VELOCITY ···· <b class="tg" style="color:var(--acc)">0</b></span><br>
+   GATE ···· 100% · 75% · 50%
+  </div>
+ </div>
+ <div class="lens" data-src="p5" data-cx="410" data-cy="345" data-k="5.6" style="left:440px;top:170px;width:440px;height:440px;border-color:var(--paper);background:var(--ink)"></div>
+ <div class="handle" style="left:830px;top:560px;width:150px;transform:rotate(45deg);background:var(--paper)"></div>
+ <div class="top" style="border-color:var(--paper)"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 001</div></div>
+ <div class="label mono">05 · 솔직한 숫자</div>
+ <div class="head" style="top:720px;font-size:56px">세게 쳐도, 약하게 쳐도</div>
+ <div class="body" style="top:830px;color:#DAD5CC">건반은 세기를 보내지만, 소리 엔진이 받지 않는다. 독일 Gearnews와 Bonedo 리뷰가 똑같이 지적한 부분이고, MIDI로 받아도 마찬가지다. 연주하는 악기보다, 소리를 만지는 장비에 가깝다.</div>
+ <div class="foot mono" style="color:#8B877F"><span>GEAR / SYNTH</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 06 NOTE ============ -->
+<div class="card" id="c6">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 001</div></div>
+ <div class="label mono">06 · MUKIT NOTE</div>
+ <div class="head" style="top:230px;font-size:52px">책상 위 신스로는<br>충분히 끌린다</div>
+ <div class="body" style="top:410px">원본을 가질 수 없는 사람에게 그 소리를 가장 가깝게 가져다주는 상자. 다만 건반으로 표현하는 연주자라면, 매장에서 직접 눌러 보고 결정하길 권한다.</div>
+ <div style="position:absolute;left:64px;right:64px;top:700px;border-top:3px solid var(--ink);padding-top:30px">
+  <div class="mono" style="font-size:25px;line-height:2.05;letter-spacing:1px">
+   MODEL ···· ROLAND JUPITER-08<br>
+   VOICES ··· 8 (최대 32)<br>
+   KEYS ····· K-25m 25건반 포함<br>
+   POWER ···· AA×4 / USB-C<br>
+   PRICE ···· US $549.99 · 국내가 미확인
+  </div>
+ </div>
+ <div class="mono" style="position:absolute;left:64px;bottom:110px;font-size:21px;color:var(--mute);letter-spacing:1px">SOURCE: Roland · MusicRadar · Gearnews · Bonedo</div>
+ <div class="foot mono"><span>GEAR / SYNTH</span><span>@MUKITMAG</span></div>
+</div>
+
+<script>
+// p4: 64-step grid
+(function(){const p=document.getElementById('p4');let h='';const x0=64,y0=290,s=59;
+for(let r=0;r<4;r++)for(let c=0;c<16;c++){const i=r*16+c;const x=x0+c*s,y=y0+r*s;
+ h+=`<div class="cell${i==24?' tg':''}" style="left:${x}px;top:${y}px;width:${s-6}px;height:${s-6}px"></div>`;
+ const n=[0,3,5,8,11,13,16,19,21,24,27,29,32,35,37,40,43,45,48,51,53,56,59,61].includes(i)?((i*7)%3)+1:0;
+ const nn=(i==24)?8:n;
+ for(let k=0;k<nn;k++)h+=`<div style="position:absolute;left:${x+7+(k%4)*10}px;top:${y+12+Math.floor(k/4)*14}px;width:7px;height:7px;border-radius:50%;background:${i==24?'var(--acc)':'var(--ink)'}"></div>`;}
+h+=`<div class="mono" style="position:absolute;left:64px;top:240px;font-size:22px;letter-spacing:4px;color:#B4AEA3">STEP 01 ——————————————————— 64</div>`;
+p.innerHTML=h;})();
+// loupe: clone plate, scale around (cx,cy)
+document.querySelectorAll('.lens').forEach(l=>{
+ const src=document.getElementById(l.dataset.src),k=+l.dataset.k;const t=src.querySelector('.tg').getBoundingClientRect(),pr=src.getBoundingClientRect();const cx=t.left-pr.left+t.width/2,cy=t.top-pr.top+t.height/2;
+ const lx=parseFloat(l.style.left),ly=parseFloat(l.style.top),w=parseFloat(l.style.width);
+ const c=src.cloneNode(true);c.removeAttribute('id');
+ const lcx=w/2,lcy=w/2; // lens inner center
+ c.style.transformOrigin='0 0';
+ c.style.transform=`translate(${lcx-10-cx*k}px,${lcy-10-cy*k}px) scale(${k})`;
+ l.appendChild(c);});
+</script>
+</body></html>
