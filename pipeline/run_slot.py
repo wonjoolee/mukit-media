@@ -108,6 +108,8 @@ def main():
     if os.path.exists(os.path.join(ROOT, "queue", "PAUSE")):
         print("PAUSED: queue/PAUSE exists")
         return
+    if DRY and T and U:
+        print("TOKEN CHECK (early):", call("GET", "/" + U, {"fields": "username"}).get("username"))
     slot = slot_now()
     rel = f"queue/{now:%Y-%m-%d}/slot{slot}"
     d = os.path.join(ROOT, rel)
@@ -120,6 +122,11 @@ def main():
         return
     post = json.load(open(os.path.join(d, "post.json"), encoding="utf-8"))
     if DRY:
+        if T and U:
+            me = call("GET", "/" + U, {"fields": "username"})
+            print("TOKEN CHECK:", me.get("username") or me)
+        else:
+            print("TOKEN CHECK: secrets missing")
         imgs = [f for f in os.listdir(d) if f.endswith(".jpg")]
         print("DRY RUN ok:", len(imgs), "cards, reel:", os.path.exists(os.path.join(d, "reel.mp4")))
         print(post["caption"][:200])
