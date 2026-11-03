@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#999;display:flex;flex-wrap:wrap;gap:40px;padding:40px;width:3700px}
+:root{--paper:#F2EFE8;--ink:#151515;--acc:#D9481F;--mute:#8B877F;--line:#CFCAC0}
+.card{width:1080px;height:1350px;background:var(--paper);color:var(--ink);position:relative;overflow:hidden;font-family:'Noto Sans CJK KR',sans-serif}
+.mono{font-family:'DejaVu Sans Mono',monospace}
+.top{position:absolute;left:64px;right:64px;top:56px;display:flex;justify-content:space-between;align-items:baseline;border-bottom:3px solid var(--ink);padding-bottom:18px}
+.top .mast{font-weight:900;font-size:44px;letter-spacing:6px}
+.top .mast small{font-weight:500;font-size:26px;letter-spacing:2px;margin-left:14px}
+.top .no{font-size:26px;letter-spacing:3px}
+.foot{position:absolute;left:64px;right:64px;bottom:52px;display:flex;justify-content:space-between;font-size:22px;letter-spacing:3px;color:var(--mute)}
+.label{position:absolute;left:64px;top:150px;font-size:24px;letter-spacing:4px;color:var(--acc)}
+.kicker{position:absolute;left:64px;font-size:26px;letter-spacing:4px;color:var(--acc)}
+.head{position:absolute;left:64px;right:64px;font-weight:900;line-height:1.22;letter-spacing:-1px;word-break:keep-all}
+.body{position:absolute;left:64px;right:110px;font-size:32px;line-height:1.7;font-weight:500;word-break:keep-all}
+.plate{position:absolute;left:0;top:0;width:1080px;height:1350px}
+.lens{position:absolute;border-radius:50%;overflow:hidden;border:10px solid var(--ink);background:var(--paper);box-shadow:0 18px 40px rgba(0,0,0,.18)}
+.handle{position:absolute;height:26px;background:var(--ink);border-radius:13px;transform-origin:0 50%}
+.info{position:absolute;left:64px;right:64px;border-top:3px solid var(--ink);padding-top:26px}
+.info .row{display:flex;font-size:27px;line-height:1.95}
+.info .k{width:150px;color:var(--mute);font-family:'DejaVu Sans Mono',monospace;font-size:23px;letter-spacing:2px;padding-top:4px}
+.info .v{flex:1;font-weight:500;word-break:keep-all}
+/* calendar */
+.cal{position:absolute;left:64px;right:64px;top:250px;display:flex;justify-content:space-between}
+.day{width:120px;text-align:center}
+.day .dw{font-size:24px;letter-spacing:3px;color:#B4AEA3}
+.day .dn{font-size:76px;font-weight:700;line-height:1.4;color:#B4AEA3}
+.day .dots{height:40px;display:flex;justify-content:center;gap:10px;margin-top:4px}
+.day .dot{width:14px;height:14px;border-radius:50%;background:var(--ink)}
+.day.on .dn,.day.on .dw{color:var(--ink)}
+.day.hot .dn{color:var(--acc)}
+.day.hot .dot{background:var(--acc)}
+table.wk{position:absolute;left:64px;right:64px;top:300px;width:952px;border-collapse:collapse;font-size:25px}
+table.wk td{border-top:2px solid var(--ink);padding:22px 0 22px;vertical-align:top;line-height:1.55;word-break:keep-all}
+table.wk td.d{width:190px;font-family:'DejaVu Sans Mono',monospace;font-size:24px;letter-spacing:1px;color:var(--acc)}
+table.wk b{font-weight:900;font-size:28px}
+table.wk .s{color:#5E5A54;font-size:23px}
+</style></head><body>
+
+<!-- ============ 01 COVER ============ -->
+<div class="card" id="c1">
+ <div class="plate" id="p1">
+  <div class="cal mono">
+      <div class="day"><div class="dw">TUE</div><div class="dn">03</div><div class="dots"></div></div>
+   <div class="day"><div class="dw">WED</div><div class="dn">04</div><div class="dots"></div></div>
+   <div class="day on"><div class="dw">THU</div><div class="dn">05</div><div class="dots"><i class="dot"></i><i class="dot"></i></div></div>
+   <div class="day on"><div class="dw">FRI</div><div class="dn">06</div><div class="dots"><i class="dot"></i></div></div>
+   <div class="day on hot"><div class="dw">SAT</div><div class="dn tg">07</div><div class="dots"><i class="dot"></i><i class="dot"></i><i class="dot"></i></div></div>
+   <div class="day on"><div class="dw">SUN</div><div class="dn">08</div><div class="dots"><i class="dot"></i><i class="dot"></i></div></div>
+   <div class="day on"><div class="dw">MON</div><div class="dn">09</div><div class="dots"><i class="dot"></i></div></div>
+  </div>
+ </div>
+ <div class="lens" data-src="p1" data-k="2.6" style="left:560px;top:430px;width:420px;height:420px"></div>
+ <div class="handle" style="left:900px;top:790px;width:150px;transform:rotate(50deg)"></div>
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">THIS WEEK</div></div>
+ <div class="label mono">MUKIT PICKS · 11.03 – 11.09</div>
+ <div class="kicker mono" style="top:930px">WEEK 45 · 3 PICKS</div>
+ <div class="head" style="top:982px;font-size:64px">뮤킷이 제안하는<br>이번 주 공연</div>
+ <div class="foot mono"><span>GUIDE / THIS WEEK</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 02 PICK 1 ============ -->
+<div class="card" id="c2">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">THIS WEEK</div></div>
+ <div class="label mono">PICK 01 · 내한 · 서울 / 인천</div>
+ <div class="head" style="top:220px;font-size:54px">필라델피아 오케스트라<br>× 마린 알솝 × 임윤찬</div>
+ <div class="body" style="top:380px">미국 '빅5' 오케스트라가 마린 알솝과 함께 온다. 협연은 임윤찬, 곡은 라흐마니노프 피아노 협주곡 3번. 가장 어려운 협주곡 중 하나로 꼽히는 곡을 지금 가장 주목받는 손으로 듣는다.</div>
+ <div class="info" style="top:640px">
+  <div class="row"><div class="k">DATE</div><div class="v">11.5(목) 인천 · 11.7(토) 17:00 · 11.8(일) 서울 · 11.9(월) 서울</div></div>
+  <div class="row"><div class="k">VENUE</div><div class="v">아트센터인천 · 예술의전당 콘서트홀 · 롯데콘서트홀</div></div>
+  <div class="row"><div class="k">PROGRAM</div><div class="v">라흐마니노프 협주곡 3번, R. 슈트라우스 〈돈 후안〉 외 (11.7 기준)</div></div>
+  <div class="row"><div class="k">PRICE</div><div class="v">8만~45만 원 (예술의전당 11.7 기준)</div></div>
+ </div>
+ <div class="foot mono"><span>GUIDE / CLASSIC</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 03 PICK 2 ============ -->
+<div class="card" id="c3">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">THIS WEEK</div></div>
+ <div class="label mono">PICK 02 · 오페라 · 서울 광화문</div>
+ <div class="head" style="top:220px;font-size:54px">서울시오페라단<br>〈라보엠〉</div>
+ <div class="body" style="top:380px">2년 전 흥행한 프로덕션이 다시 올라온다. 미미는 황수미와 박혜상, 두 소프라노가 번갈아 맡는다. 오페라가 처음이라면 가장 먼저 권할 만한 작품이다. 처음부터 끝까지 귀에 익은 선율이 이어진다.</div>
+ <div class="info" style="top:660px">
+  <div class="row"><div class="k">DATE</div><div class="v">11.5(목) ~ 11.8(일), 4회</div></div>
+  <div class="row"><div class="k">VENUE</div><div class="v">세종문화회관 대극장</div></div>
+  <div class="row"><div class="k">CAST</div><div class="v">황수미·박혜상(미미), 김건우·이원종(로돌포) · 지휘 김광현</div></div>
+  <div class="row"><div class="k">PRICE</div><div class="v">5만~15만 원 · 세종문화티켓</div></div>
+ </div>
+ <div class="foot mono"><span>GUIDE / OPERA</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 04 PICK 3 ============ -->
+<div class="card" id="c4">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">THIS WEEK</div></div>
+ <div class="label mono">PICK 03 · 지역 · 부산</div>
+ <div class="head" style="top:220px;font-size:54px">KNN방송교향악단<br>10주년 × 임동혁</div>
+ <div class="body" style="top:380px">부산의 방송 오케스트라가 열 번째 해를 맞았다. 임동혁이 라흐마니노프 2번을 치고, 2부는 차이콥스키 〈비창〉. 부산콘서트홀의 소리를 들어 볼 이유로 충분하다. 같은 날 오후 3시에는 같은 홀에서 윤이상콩쿠르 입상자 공연도 열린다.</div>
+ <div class="info" style="top:700px">
+  <div class="row"><div class="k">DATE</div><div class="v">11.7(토)</div></div>
+  <div class="row"><div class="k">VENUE</div><div class="v">부산콘서트홀</div></div>
+  <div class="row"><div class="k">PROGRAM</div><div class="v">글린카 서곡, 라흐마니노프 협주곡 2번, 차이콥스키 교향곡 6번</div></div>
+  <div class="row"><div class="k">PRICE</div><div class="v">3만~10만 원 · 티켓링크</div></div>
+ </div>
+ <div class="foot mono"><span>GUIDE / LOCAL</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 05 NUMBER ============ -->
+<div class="card" id="c5" style="background:var(--ink);color:var(--paper)">
+ <div class="plate" id="p5" style="background:var(--ink)">
+  <div class="mono" style="position:absolute;left:64px;top:250px;width:952px;font-size:30px;letter-spacing:4px;color:#5E5A54;line-height:2.05">
+   11.07 SAT<br>
+   <span style="color:var(--paper)">SEOUL ·· RACHMANINOFF No.<b style="color:var(--acc)">3</b></span><br>
+   <span style="color:var(--paper)">BUSAN ·· RACHMANINOFF No.<b class="tg" style="color:var(--acc)">2</b></span>
+  </div>
+ </div>
+ <div class="lens" data-src="p5" data-k="4.2" style="left:600px;top:450px;width:400px;height:400px;border-color:var(--paper);background:var(--ink)"></div>
+ <div class="handle" style="left:930px;top:800px;width:120px;transform:rotate(45deg);background:var(--paper)"></div>
+ <div class="top" style="border-color:var(--paper)"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">THIS WEEK</div></div>
+ <div class="label mono">05 · 알아 둘 숫자</div>
+ <div class="head" style="top:900px;font-size:54px">토요일, 라흐마니노프<br>3번과 2번이 동시에</div>
+ <div class="body" style="top:1060px;color:#DAD5CC">11월 7일 토요일. 서울에서는 임윤찬이 3번을, 부산에서는 임동혁이 2번을 친다. 두 세대의 피아니스트가 같은 작곡가의 협주곡을 같은 날 무대에 올린다.</div>
+ <div class="foot mono" style="color:#8B877F"><span>GUIDE / THIS WEEK</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- ============ 06 TABLE ============ -->
+<div class="card" id="c6">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">THIS WEEK</div></div>
+ <div class="label mono">06 · MUKIT GUIDE</div>
+ <div class="head" style="top:200px;font-size:44px">이번 주, 한눈에</div>
+ <table class="wk">
+  <tr><td class="d">11.05–09</td><td><b>필라델피아 오케스트라 × 임윤찬</b><br><span class="s">인천 아트센터인천 · 서울 예술의전당·롯데콘서트홀 · 8만~45만 원</span></td></tr>
+  <tr><td class="d">11.05–08</td><td><b>서울시오페라단 〈라보엠〉</b><br><span class="s">세종문화회관 대극장 · 5만~15만 원 · 세종문화티켓</span></td></tr>
+  <tr><td class="d">11.07</td><td><b>KNN방송교향악단 × 임동혁</b><br><span class="s">부산콘서트홀 · 3만~10만 원 · 티켓링크</span></td></tr>
+ </table>
+ <div style="position:absolute;left:64px;right:64px;top:870px;border-top:3px solid var(--ink);padding-top:28px">
+  <div class="mono" style="font-size:22px;letter-spacing:4px;color:var(--acc);margin-bottom:12px">MUKIT NOTE</div>
+  <div style="font-size:31px;line-height:1.65;font-weight:500;word-break:keep-all">오케스트라가 처음이라면 부산, 오페라가 처음이라면 〈라보엠〉. 좋은 자리를 놓쳤다면 공연 전날 취소표를 다시 보자.</div>
+ </div>
+ <div class="mono" style="position:absolute;left:64px;right:64px;bottom:110px;font-size:19px;color:var(--mute);letter-spacing:1px;line-height:1.6">SOURCE: 예술의전당 · NOL티켓 · 한국경제 · 싱글리스트 · 부산일보 · 복지TV부울경<br>잔여석·시간은 예매처에서 다시 확인하세요.</div>
+ <div class="foot mono"><span>GUIDE / THIS WEEK</span><span>@MUKITMAG</span></div>
+</div>
+
+<script>
+document.querySelectorAll('.lens').forEach(l=>{
+ const src=document.getElementById(l.dataset.src),k=+l.dataset.k;
+ const t=src.querySelector('.tg').getBoundingClientRect(),pr=src.getBoundingClientRect();
+ const cx=t.left-pr.left+t.width/2,cy=t.top-pr.top+t.height/2;
+ const w=parseFloat(l.style.width);const c=src.cloneNode(true);c.removeAttribute('id');
+ c.style.transformOrigin='0 0';c.style.transform=`translate(${w/2-10-cx*k}px,${w/2-10-cy*k}px) scale(${k})`;l.appendChild(c);});
+</script>
+</body></html>
