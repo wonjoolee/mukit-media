@@ -71,7 +71,7 @@ def permalink(mid):
 
 
 def carousel(rel, post):
-    imgs = sorted(f for f in os.listdir(os.path.join(ROOT, rel)) if f.endswith(".jpg"))[:10]
+    imgs = sorted(f for f in os.listdir(os.path.join(ROOT, rel)) if f.endswith(".jpg") and f != "story.jpg")[:10]
     kids = []
     for i, f in enumerate(imgs):
         p = {"image_url": RAW + rel + "/" + f, "is_carousel_item": "true"}
