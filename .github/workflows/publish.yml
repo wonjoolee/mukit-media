@@ -2,13 +2,15 @@ name: MUKIT publish
 
 on:
   schedule:
-    - cron: "50 22 * * *"   # 07:50 KST
-    - cron: "30 3 * * *"    # 12:30 KST
-    - cron: "30 12 * * *"   # 21:30 KST
+    - cron: "50 22 * * *"
+    - cron: "20 1 * * *"
+    - cron: "30 3 * * *"
+    - cron: "20 9 * * *"
+    - cron: "30 12 * * *"
   workflow_dispatch:
     inputs:
       slot:
-        description: "slot 1/2/3 (비우면 현재 시간 기준)"
+        description: "slot 1~5 (비우면 예약 시간 기준)"
         required: false
       story_only:
         description: "스토리만 게시할 폴더 (예: queue/2026-11-03/slot1)"
@@ -39,6 +41,7 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           SLOT: ${{ github.event.inputs.slot }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
+          SCHEDULE: ${{ github.event.schedule }}
           STORY_ONLY: ${{ github.event.inputs.story_only }}
         run: python pipeline/run_slot.py
       - name: Save posted record
