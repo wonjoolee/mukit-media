@@ -26,7 +26,14 @@ def slot_now():
     if os.environ.get("SLOT"):
         return int(os.environ["SLOT"])
     h = now.hour
-    return 1 if h < 10 else (2 if h < 16 else 3)
+    # 예약 시간대에만 게시 (GitHub 예약 실행 지연 여유 포함)
+    if 7 <= h < 12:
+        return 1
+    if 12 <= h < 18:
+        return 2
+    if 21 <= h <= 23:
+        return 3
+    return 0
 
 
 def call(method, path, params):
@@ -104,13 +111,35 @@ def reel(rel, post):
     return p["id"], permalink(p["id"])
 
 
+def story(rel):
+    """릴스 영상(9:16)을 스토리로도 게시. 스토리에는 캡션·링크가 붙지 않는다."""
+    r = call("POST", f"/{U}/media", {"media_type": "STORIES", "video_url": RAW + rel + "/reel.mp4"})
+    if "error" in r:
+        raise SystemExit(f"story error: {r}")
+    s = wait(r["id"])
+    if s.get("status_code") != "FINISHED":
+        raise SystemExit(f"story not finished: {s}")
+    p = call("POST", f"/{U}/media_publish", {"creation_id": r["id"]})
+    if "error" in p:
+        raise SystemExit(f"story publish error: {p}")
+    return p["id"]
+
+
 def main():
+    if os.environ.get("STORY_ONLY"):
+        if not (T and U):
+            raise SystemExit("IG_TOKEN / IG_USER_ID secrets missing")
+        print("story only:", os.environ["STORY_ONLY"], story(os.environ["STORY_ONLY"].strip("/")))
+        return
     if os.path.exists(os.path.join(ROOT, "queue", "PAUSE")):
         print("PAUSED: queue/PAUSE exists")
         return
     if DRY and T and U:
         print("TOKEN CHECK (early):", call("GET", "/" + U, {"fields": "username"}).get("username"))
     slot = slot_now()
+    if slot == 0:
+        print("KST", now.isoformat(), "outside posting windows — nothing to do")
+        return
     rel = f"queue/{now:%Y-%m-%d}/slot{slot}"
     d = os.path.join(ROOT, rel)
     print("KST", now.isoformat(), "slot", slot, rel)
@@ -143,6 +172,13 @@ def main():
         except SystemExit as e:
             out["reel_error"] = str(e)
             print("reel failed:", e)
+        if os.environ.get("NO_STORY") != "1":
+            try:
+                out["story_id"] = story(rel)
+                print("story:", out["story_id"])
+            except SystemExit as e:
+                out["story_error"] = str(e)
+                print("story failed:", e)
     json.dump(out, open(os.path.join(d, "posted.json"), "w"), ensure_ascii=False, indent=1)
 
 
