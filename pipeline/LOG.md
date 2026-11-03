@@ -6,3 +6,8 @@
 2026-11-03 | 1 | 002 | 모그가 신스를 위한 앰프를 내놨다 (Moog Model 112/210) | gearnews.com, synthtopia.com, musictech.com, sonicstate.com
 2026-11-03 | 2 | 003 | 네브의 아날로그를 세션과 함께 불러온다 (Neve Elements) | theaudiomagazine.com, fast-and-wide.com, Bobby Owsinski
 2026-11-03 | 3 | 004 | 안 팔린 드럼머신이 힙합의 심장이 됐다 (Roland TR-808) | smithsonianmag.com, sweetwater.com, interfacemuseum.com, Micro-Chop
+2026-11-04 | 1 | 005 | 두 음뿐인 드럼 신스, 대신 깊게 판다 (Dreadbox Alecto) | dreadbox-fx.com/alecto, synthanatomy.com, matrixsynth.com
+2026-11-04 | 4 | 006 | [단신] 베링거 SP-1200 오마주, 목표가 200달러 (Behringer SP1200X) | musicradar.com, gearnews.com, bonedo.de, matrixsynth.com
+2026-11-04 | 2 | 007 | 폴리엔드가 트래커의 속을 열었다 (Polyend Tracker CE 1.0) | backstage.polyend.com, musicradar.com, sonicstate.com
+2026-11-04 | 5 | 008 | [단신] 슈어 액시언트 디지털 1.6 (Shure Axient Digital v1.6) | shure.com, prosoundweb.com, mixonline.com
+2026-11-04 | 3 | 009 | [GUIDE] 프로오디오를 들으러 마쿠하리로 간다 (Inter BEE 2026) | inter-bee.com, gamebusiness.jp
