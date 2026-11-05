@@ -16,3 +16,7 @@
 2026-11-05 | 2 | 012 | 큐베이스 16, 예고 없이 나왔다 (Steinberg Cubase 16) | soundonsound.com, musictech.com, rekkerd.org, gearnews.com
 2026-11-05 | 5 | 013 | [단신] 입력 잭 없는 페달, 소리를 직접 만든다 (Old Blood Noise Endeavors IOTA) | guitarpedalx.com, pedalempire.com.au
 2026-11-05 | 3 | 014 | 열다섯 살의 MS-10에서 테크노까지 (Juan Atkins 1962–2026) | reverb.com, musicradar.com, musictech.com, synthtopia.com
+2026-11-06 | 4 | 015 | [단신] 3년 걸린 마이크, 지향성은 1개에서 5개로 (Myburgh M28) | production-expert.com, sonicstate.com
+2026-11-06 | 2 | 016 | [GUIDE] 8일 동안 다섯 도시, 지브리를 재즈로 듣는 12월 (카즈미 타테이시 트리오) | nol.yanolja.com, stagepick.co.kr
+2026-11-06 | 5 | 017 | [단신] 1985년의 12보이스, 공식 플러그인이 됐다 (GForce Oberheim Matrix-12) | synthtopia.com, gearnews.com
+2026-11-06 | 3 | 018 | 1.8마이크론 알루미늄이 소리를 듣는다 (리본 마이크, AEA Behind the Ribbon) | prosoundweb.com, aearibbonmics.com, wikipedia, bext.com
