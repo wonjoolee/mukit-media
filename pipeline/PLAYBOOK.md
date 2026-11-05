@@ -74,7 +74,15 @@ MUKIT MAGAZINE(@mukitmag) — "PRO AUDIO · MI · INSTRUMENTS / 귀와 손으로
 
 ## 출처 (사실 확인용)
 - 신스·MI: Synth Anatomy, MusicRadar, Gearnews, MusicTech, Sound On Sound, Synthtopia, CDM, Bonedo
-- 프로오디오: ProSoundWeb, Mix, Live Design, AV Magazine, audioXpress, Production Expert
+- 프로오디오(운영자 지시 2026-11-05: 더 넓게, 매일 확인): 
+  - 라이브·투어: ProSoundWeb(Live Sound International), FOH Online, TPi(Total Production), Live Design, LSi Online(Lighting & Sound International), Mondo*dr
+  - 스튜디오·레코딩: Mix, Pro Sound News, Sound On Sound, Production Expert, Audio Media International, Resolution, audioXpress
+  - 설치·AV: Installation(installation-international.com), AV Magazine, Sound & Video Contractor(svconline), Commercial Integrator, Systems Contractor News, Panorama Audiovisual, Digital AV Magazine
+  - 아시아: e-Tech Asia(e-techasia.com), Inter BEE·Musikmesse·InfoComm Asia 등 전시 소식
+  - 업계·유통: MMR(Musical Merchandise Review), Music Inc.
+  - 국내: 비디오앤사운드(videosound.co.kr), 수입사 보도자료(뉴스와이어), 공연장 개관·리뉴얼 기사
+- **프로오디오 비중:** 슬롯2(업계·현장)는 프로오디오를 기본으로 한다. 투어 시스템, 공연장·스튜디오 설치 사례, 콘솔·스피커 신제품, 전시회 소식. 설치 사례 기사는 PR 대행사·브랜드 보도자료의 현장 사진(B등급)을 쓸 수 있어 사진 확보가 쉽다.
+- 사진 출처는 `pipeline/PRESSROOMS.md`(등급 A·B만 자동 사용). 특히 Clyne Media(clynemedia.com)는 여러 프로오디오 브랜드의 보도자료와 고해상도 사진을 함께 배포하니 매일 확인한다.
 - 브랜드 공식 홈페이지·보도자료(가격·사양은 공식 자료 우선)
 - 숫자·날짜·가격은 두 곳 이상에서 확인한다. 서로 다르면 공식 자료를 따르고, 확인 못 하면 "미공개/미확인".
 
