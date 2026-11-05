@@ -19,6 +19,16 @@ Prowly 뉴스룸 | 브랜드별 *.prowly.com | Native Instruments | NI 프레스
 PR Newswire · Business Wire · GlobeNewswire | 공개 | Avid, Universal Audio 등 상장·대형사 | 보도자료 첨부 이미지
 뉴스와이어(newswire.co.kr) | 공개 | 국내 수입사 보도자료 | 국내가·출시일 확인용
 
+## 1-1. 매거진 경유 제조사 사진 (등급 M, 2026-11-05 운영자 지시)
+매거진 기사에 실린 사진 중 **크레딧이 브랜드로 표기된 것만** 쓴다. 표기는 `PHOTO · 브랜드 (via 매거진)`.
+매거진 | 분야 | 주소
+---|---|---
+Pro AVL Asia | 아시아 프로AV·라이브·설치 | https://www.proavl-asia.com/
+Systems Integration Asia | 아시아 설치·시스템 통합 | https://www.systemsintegrationasia.com/
+e-Tech Asia | 아시아 프로오디오·조명 | https://www.e-techasia.com/
+What Hi-Fi? | 하이파이·홈오디오 | https://www.whathifi.com/
+Stereophile / The Absolute Sound / Hi-Fi News / StereoNET | 하이파이 | 각 사이트
+
 ## 2. 브랜드 프레스룸 — 악기·MI
 
 브랜드 | 주소 | 등급 | 이용 조건·연락처 | 확인

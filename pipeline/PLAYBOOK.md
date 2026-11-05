@@ -80,6 +80,8 @@ MUKIT MAGAZINE(@mukitmag) — "PRO AUDIO · MI · INSTRUMENTS / 귀와 손으로
   - 설치·AV: Installation(installation-international.com), AV Magazine, Sound & Video Contractor(svconline), Commercial Integrator, Systems Contractor News, Panorama Audiovisual, Digital AV Magazine
   - 아시아: e-Tech Asia(e-techasia.com), Inter BEE·Musikmesse·InfoComm Asia 등 전시 소식
   - 업계·유통: MMR(Musical Merchandise Review), Music Inc.
+  - 아시아 프로AV(운영자 지정, 2026-11-05): Pro AVL Asia(proavl-asia.com), Systems Integration Asia(SIA), e-Tech Asia
+- 하이파이·홈오디오(운영자 지정, 2026-11-05): What Hi-Fi?, Stereophile, The Absolute Sound, Hi-Fi News, Hi-Fi+, Sound & Vision, StereoNET, Darko.Audio, Audioholics
   - 국내: 비디오앤사운드(videosound.co.kr), 수입사 보도자료(뉴스와이어), 공연장 개관·리뉴얼 기사
 - **프로오디오 비중:** 슬롯2(업계·현장)는 프로오디오를 기본으로 한다. 투어 시스템, 공연장·스튜디오 설치 사례, 콘솔·스피커 신제품, 전시회 소식. 설치 사례 기사는 PR 대행사·브랜드 보도자료의 현장 사진(B등급)을 쓸 수 있어 사진 확보가 쉽다.
 - 사진 출처는 `pipeline/PRESSROOMS.md`(등급 A·B만 자동 사용). 특히 Clyne Media(clynemedia.com)는 여러 프로오디오 브랜드의 보도자료와 고해상도 사진을 함께 배포하니 매일 확인한다.
@@ -90,6 +92,10 @@ MUKIT MAGAZINE(@mukitmag) — "PRO AUDIO · MI · INSTRUMENTS / 귀와 손으로
 운영자 피드백: "산킷에 비해 이미지가 적고 콘텐츠가 부실하다." 글자·루페만으로 된 카드는 더 이상 기본이 아니다.
 - **슬롯1·2(신제품·업계 소식)는 공식 보도용 사진 최소 2장이 있어야 만든다.** 2장 미만이면 그 주제는 버리고 사진이 있는 다른 주제로 바꾼다(SANKIT과 같은 기준).
 - 사진 출처는 브랜드 공식 프레스룸·미디어 페이지·보도자료 배포처(Prezly, Mynewsdesk, PR Newswire, Business Wire 등)의 보도용 이미지만. `pipeline/PRESSROOMS.md`에 확인된 곳을 먼저 본다.
+- **매거진 기사 속 사진 (운영자 지시, 2026-11-05):** 위 매거진들의 기사 사진도 쓸 수 있다. 단, **사진 캡션·크레딧이 제조사/브랜드로 표기된 경우만**(예: "Image credit: Sony", "Photo: courtesy of L-Acoustics", "Photo: Genelec"). 이는 브랜드가 배포한 보도용 사진이 매거진을 거쳐 실린 것이기 때문이다.
+  - 표기: 카드에 `PHOTO · 브랜드 (via 매거진명)`, 캡션 Source 줄에 매거진명과 기사 제목·링크.
+  - 쓰지 않는 것: 크레딧이 매거진·발행사(예: "Image credit: Future", "What Hi-Fi?"), 소속 사진가·기자 이름, 게티·AP 등 통신사/스톡, 크레딧이 없는 사진. 이런 사진은 매거진이 직접 찍거나 따로 라이선스를 받은 것이라 재배포 대상이 아니다. 출처를 적어도 쓰지 않는다.
+  - 매거진의 리뷰 문장·측정 그래프는 그대로 옮기지 않는다. 사실만 확인하고 우리 말로 쓴다.
 - **새 프레스룸을 찾으면 `pipeline/PRESSROOMS.md`에 한 줄 추가한다**(브랜드 | 주소 | 공개/가입 | 이용 조건 요약 | 확인 날짜). 확인 못 한 곳은 '미확인'으로 적고 쓰지 않는다. 이 목록을 매일 조금씩 키운다.
 - 보도용 사진은 원본 비율 그대로(자르기·확대·사진 위 글자/선/원 금지), 사진마다 `PHOTO · 브랜드`. 레이아웃은 `pipeline/assets/ref_sankit_press_layout.html`(SANKIT 프레스 사진 카드)을 참고한다.
 - 사진 없이 글자 카드로 만들어도 되는 것: 슬롯3의 역사·기술 해설, GUIDE(공연·페스티벌), THIS WEEK, 단신(슬롯4·5). 이때도 아래 '카드 구성의 변화'를 지킨다.
