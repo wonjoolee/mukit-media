@@ -20,3 +20,7 @@
 2026-11-06 | 2 | 016 | [GUIDE] 8일 동안 다섯 도시, 지브리를 재즈로 듣는 12월 (카즈미 타테이시 트리오) | nol.yanolja.com, stagepick.co.kr
 2026-11-06 | 5 | 017 | [단신] 1985년의 12보이스, 공식 플러그인이 됐다 (GForce Oberheim Matrix-12) | synthtopia.com, gearnews.com
 2026-11-06 | 3 | 018 | 1.8마이크론 알루미늄이 소리를 듣는다 (리본 마이크, AEA Behind the Ribbon) | prosoundweb.com, aearibbonmics.com, wikipedia, bext.com
+2026-11-07 | 4 | 019 | [단신] 줄이 세 개뿐인 P베이스, 누구를 위한 걸까? (Fender x Loog Precision Bass) | guitarworld.com, notreble.com
+2026-11-07 | 5 | 020 | [단신] 완성된 곡, 몇 갈래로 나눌 수 있을까? (iZotope Photon) | synthtopia.com, sonicstate.com
+2026-11-07 | 3 | 021 | 45년 전 6보이스 신스, 왜 아직도 다시 만들까? (Korg Polysix 1981) | wikipedia.org, vintagesynth.com, synthtopia.com
+2026-11-07 | 1·2 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -
