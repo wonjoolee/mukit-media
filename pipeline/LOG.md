@@ -26,3 +26,5 @@
 2026-11-07 | 1·2 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -
 2026-11-08 | 4 | 022 | [단신] 드럼 한 트랙을 여섯 갈래로 나눈다 (Apple Logic Pro 13) | production-expert.com, musicradar.com
 2026-11-08 | 5 | 023 | [단신] 송신기는 그대로, 마이크 머리만 바꾼다 (Sontronics SOLO W2) | sontronics.com, prosoundweb.com, audiofanzine.com
+2026-11-08 | 3 | 024 | 부엌의 8트랙 하나가 1,800만 장이 됐다 (Jean-Michel Jarre, Oxygène 50주년) | wikipedia.org, loudersound.com, synthtopia.com
+2026-11-08 | 1·2 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -
