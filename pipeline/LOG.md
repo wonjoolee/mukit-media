@@ -24,3 +24,5 @@
 2026-11-07 | 5 | 020 | [단신] 완성된 곡, 몇 갈래로 나눌 수 있을까? (iZotope Photon) | synthtopia.com, sonicstate.com
 2026-11-07 | 3 | 021 | 45년 전 6보이스 신스, 왜 아직도 다시 만들까? (Korg Polysix 1981) | wikipedia.org, vintagesynth.com, synthtopia.com
 2026-11-07 | 1·2 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -
+2026-11-08 | 4 | 022 | [단신] 드럼 한 트랙을 여섯 갈래로 나눈다 (Apple Logic Pro 13) | production-expert.com, musicradar.com
+2026-11-08 | 5 | 023 | [단신] 송신기는 그대로, 마이크 머리만 바꾼다 (Sontronics SOLO W2) | sontronics.com, prosoundweb.com, audiofanzine.com
