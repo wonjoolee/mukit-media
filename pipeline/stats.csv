@@ -26,5 +26,7 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-07,slot3,reel,KIT 021 · Korg Polysix (1981),news,question,0,0,20:58
 2026-11-07,slot4,carousel,KIT 019 · Fender x Loog Precision Bass,brief,question,0,0,09:59
 2026-11-07,slot5,carousel,KIT 020 · iZotope Photon,brief,question,0,0,17:59
+2026-11-08,slot3,carousel,"KIT 024 · Jean-Michel Jarre, Oxygène (19",news,number,0,0,20:59
+2026-11-08,slot3,reel,"KIT 024 · Jean-Michel Jarre, Oxygène (19",news,number,0,0,20:59
 2026-11-08,slot4,carousel,KIT 022 · Apple Logic Pro 13,brief,number,0,0,09:59
 2026-11-08,slot5,carousel,KIT 023 · Sontronics SOLO W2,brief,number,0,0,17:59
