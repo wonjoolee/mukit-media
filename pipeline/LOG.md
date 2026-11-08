@@ -28,3 +28,8 @@
 2026-11-08 | 5 | 023 | [단신] 송신기는 그대로, 마이크 머리만 바꾼다 (Sontronics SOLO W2) | sontronics.com, prosoundweb.com, audiofanzine.com
 2026-11-08 | 3 | 024 | 부엌의 8트랙 하나가 1,800만 장이 됐다 (Jean-Michel Jarre, Oxygène 50주년) | wikipedia.org, loudersound.com, synthtopia.com
 2026-11-08 | 1·2 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -
+2026-11-09 | 4 | 025 | [단신] 작은 신스는 코드를 몇 개까지 알까? (AudioThingies MicroMonsta 2 FW 3.0) | synthanatomy.com, synthtopia.com
+2026-11-09 | 2 | 026 | [GUIDE][WEEK] 말러 〈부활〉부터 5시간 판소리까지 (THIS WEEK 11.10–11.16) | sac.or.kr, nol.yanolja.com, daeguconcerthouse.or.kr, sports.khan.co.kr
+2026-11-09 | 5 | 027 | [단신] 트랙이 아니라 세션에 꽂는 플러그인? (Avid Pro Tools 2026.11) | production-expert.com, synthtopia.com
+2026-11-09 | 3 | 028 | 왜 작게 들으면 저음이 사라질까? (Equal-Loudness Contours, ISO 226) | ISO 226:2003, dael.euracoustics.org(FA2023), lindos.co.uk, worldradiohistory.com(BSTJ 1933)
+2026-11-09 | 1 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -

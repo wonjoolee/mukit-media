@@ -1,0 +1,6 @@
+{
+ "type": "brief",
+ "hook": "question",
+ "caption": "KIT 025 · AudioThingies MicroMonsta 2 Firmware 3.0\n작은 신스는 코드를 몇 개까지 알까?\n\n오디오싱기스 마이크로몬스타 2의 펌웨어 3.0이 나왔다. 스케일은 21개, 코드는 63종(3음 27·4음 36)으로 늘었고, 건반마다 다른 코드를 걸 수 있다. 외부 MIDI 입력에도 쓰이고 프리셋에 함께 저장된다.\n아르페지에이터 옆에 16스텝 모듈레이션 시퀀서가 생겼고, 모듈레이션 매트릭스는 10슬롯에서 12슬롯으로 늘었다. 폴리 애프터터치를 받고, 오실레이터 음정 범위는 -24~+24반음으로 넓어졌다.\n기존 사용자는 무료 업데이트. 본체는 318유로(프랑스 부가세 포함 판매가). 국내가는 미확인.\nMUKIT 한 줄: 새 기계를 사지 않아도 연주법이 바뀌는 업데이트다.\n\nSource: Synth Anatomy \"AudioThingies MicroMonsta 2: firmware 3.0 adds polyAT and more\", Synthtopia \"AudioThingies MicroMonsta 2 Firmware 3.0 Adds Polyphonic Aftertouch & Expanded Chord Tools\"\n\n#MUKIT #뮤킷 #MicroMonsta2 #AudioThingies #신디사이저 #펌웨어업데이트 #폴리애프터터치",
+ "tags": []
+}
