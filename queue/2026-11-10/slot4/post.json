@@ -1,0 +1,6 @@
+{
+ "type": "brief",
+ "hook": "number",
+ "caption": "KIT 029 · OpenRB-338\n1,268곡을 원본과 대조한 리버스\n\n1990년대 프로펠러헤드가 만든 소프트웨어 그루브박스 ReBirth RB-338이 오픈소스로 다시 돌아간다. 개발자(pingw33n)가 ReBirth 2.01을 기준으로 엔진을 새로 짰고, 내보낸 루프가 원본과 바이트 단위로 같다고 밝혔다. 테스트한 곡은 1,268곡.\nTB-303 두 대, TR-808, TR-909에 믹서·딜레이·디스토션·컴프레서까지 원래 구성 그대로다. 옛 ReBirth 곡 파일과 모드 파일을 열고, WAV·FLAC·Ogg로 내보낸다.\nmacOS·Windows·Linux, 무료(GPL-3.0). 아직 MIDI 입력·동기, VST·ReWire는 없어 단독 실행만 된다. 리즌 스튜디오와는 관계없는 독립 프로젝트다.\nMUKIT 한 줄: '비슷한 소리'가 아니라 '같은 소리인지'를 검사한 복원이다.\n\nSource: Synthtopia \"Free, Open-Source OpenRB-338 Brings ReBirth Back For Modern Computers\", Sonicstate \"Free ReBirth RB-338 Clone Released\", GitHub pingw33n/openrb-338\n\n#MUKIT #뮤킷 #ReBirth #RB338 #TB303 #TR808 #TR909 #오픈소스",
+ "tags": []
+}
