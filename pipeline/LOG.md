@@ -33,3 +33,7 @@
 2026-11-09 | 5 | 027 | [단신] 트랙이 아니라 세션에 꽂는 플러그인? (Avid Pro Tools 2026.11) | production-expert.com, synthtopia.com
 2026-11-09 | 3 | 028 | 왜 작게 들으면 저음이 사라질까? (Equal-Loudness Contours, ISO 226) | ISO 226:2003, dael.euracoustics.org(FA2023), lindos.co.uk, worldradiohistory.com(BSTJ 1933)
 2026-11-09 | 1 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -
+2026-11-10 | 4 | 029 | [단신] 1,268곡을 원본과 대조한 리버스 (OpenRB-338) | synthtopia.com, sonicstate.com, github.com/pingw33n/openrb-338
+2026-11-10 | 5 | 030 | [단신] 인포컴을 여는 협회, 14년 만에 대표가 바뀐다 (AVIXA CEO Marco Pardi) | residentialsystems.com, marketscale.com, prosoundweb.com
+2026-11-10 | 3 | 031 | CD의 44,100은 TV 화면에서 나왔다 (Why 44.1 kHz) | Watkinson(The Art of Digital Audio), AES5, theregister.com, vintagedigital.com.au, wikipedia.org
+2026-11-10 | 1·2 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -
