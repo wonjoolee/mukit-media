@@ -7,7 +7,7 @@
 주소 | 상태
 ---|---
 tong.visitkorea.or.kr (한국관광공사 사진) | 받기 가능
-mnd-assets.mynewsdesk.com (Mynewsdesk 보도사진) | 받기 가능 — 오디오 브랜드는 적음(DJI, Dirac, CBK 등)
+mnd-assets.mynewsdesk.com (Mynewsdesk 보도사진) | 받기 가능 — 오디오 브랜드는 적음(DJI, Dirac, CBK 등). 보도자료 페이지(www.mynewsdesk.com)는 curl로 열림, 이미지 ID를 `image/upload/c_limit,w_1600,f_jpg/<ID>`로 받으면 원본 비율. DJI 사진 License: Media Use → A등급(2026-11-11 확인)
 upload.wikimedia.org · commons.wikimedia.org | 접속 가능, 요청 제한(429) 잦음
 clynemedia.com · cdn.uc.assets.prezly.com · cdn.mos.cms.futurecdn.net · proavl-asia.com · e-techasia.com · teenage.engineering · adam-audio.com | 막힘 — 운영자가 허용 목록에 추가해야 함
 

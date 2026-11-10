@@ -37,3 +37,7 @@
 2026-11-10 | 5 | 030 | [단신] 인포컴을 여는 협회, 14년 만에 대표가 바뀐다 (AVIXA CEO Marco Pardi) | residentialsystems.com, marketscale.com, prosoundweb.com
 2026-11-10 | 3 | 031 | CD의 44,100은 TV 화면에서 나왔다 (Why 44.1 kHz) | Watkinson(The Art of Digital Audio), AES5, theregister.com, vintagedigital.com.au, wikipedia.org
 2026-11-10 | 1·2 | - | 미제작: 보도용 사진 다운로드가 세션 네트워크 정책(403)으로 막혀 사진 2장 기준 미충족 | -
+2026-11-11 | 4 | 032 | [단신] 다 만든 악기를 왜 열어 둘까? (inMusic at NAMM 2027, Creator Lab) | matrixsynth.com(inMusic 보도자료), synthtopia.com
+2026-11-11 | 5 | 033 | [단신] 무선이 끊기면, 소리는 어디에 남을까? (DJI Mic Mini 2S, 사진: DJI Mynewsdesk Media Use) | mynewsdesk.com/uk/dji, petapixel.com
+2026-11-11 | 3 | 034 | 1,528dB짜리 그릇, 정말 안 넘칠까? (32-Bit Float Recording) | sounddevices.com, dpamicrophones.com, IEEE 754
+2026-11-11 | 1·2 | - | 미제작: 사진 없음(Commons API 429, tong.visitkorea 부산콘서트홀 사진은 공공누리 유형 확인 불가, 보도사진 도메인 대부분 접속 차단 — Mynewsdesk DJI만 가능) | -

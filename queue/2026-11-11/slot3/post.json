@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "question",
+ "caption": "KIT 034 · 32-Bit Float Recording\n1,528dB짜리 그릇, 정말 안 넘칠까?\n\n휴대용 녹음기와 핀마이크 송신기에 '32비트 플로트'가 붙기 시작했다. 24비트 정수 파일은 0dBFS를 넘는 순간 파형 꼭대기가 잘린다. 플로트 파일은 32비트를 부호 1비트, 가수 23비트, 지수 8비트로 나눠, 0dBFS 위로도 약 770dB까지 값을 적는다. 형식이 담을 수 있는 폭은 이론상 1,528dB. 24비트 정수의 144.5dB와는 자릿수가 다르다.\n\n그런데 실제 장비는 그만큼 넓지 않다. 여러 단을 겹친 변환기도 130~142dB 수준이고, 마이크는 대개 130dB 아래다. 그리고 소리는 파일에 닿기 전에 마이크, 프리앰프, 변환기를 지난다. 입력단 최대치를 넘는 신호는 거기서 이미 잘린다. 파일은 24비트보다 33% 크다(48kHz 모노 기준 초당 1.536Mbit).\n\n그래서 32비트 플로트는 '레벨을 안 봐도 되는 기술'이라기보다 '실수 한 번을 살려 주는 보험'에 가깝다. DAW에서 꼭대기가 잘려 보이면 게인을 내려 보자. 잘린 게 아니라 숨어 있던 것일 수 있다.\n\n16비트 96.3dB · 24비트 144.5dB · 32비트 플로트 1,528dB(이론값) · 실제 변환기 130~142dB\n\nSource: Sound Devices \"32-Bit Float Files Explained\"(https://www.sounddevices.com/32-bit-float-files-explained), DPA Mic University \"32-bit floating point and other conversions\"(https://www.dpamicrophones.com/mic-university/technology/32-bit-floating-point-and-other-conversions/), IEEE 754\n\n32비트로 녹음해 본 분, 실제로 살린 적 있나요? 댓글로.\n\n#MUKIT #뮤킷 #32비트플로트 #녹음 #필드레코딩 #홈레코딩 #오디오기초 #디지털오디오 #레코딩팁",
+ "reel_caption": "0dBFS 위로도 숫자를 적는 32비트 플로트, 그릇은 1,528dB지만 마이크와 입력단은 여전히 찢어진다. 레벨을 안 봐도 되는 기술이 아니라 실수를 살리는 보험이다. 자세한 이야기는 피드의 KIT 034에서.\n\n#MUKIT #뮤킷 #32비트플로트 #녹음 #레코딩팁 #디지털오디오",
+ "tags": []
+}
