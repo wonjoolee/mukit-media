@@ -3,6 +3,14 @@
 자동 제작 세션이 사진을 찾을 때 **가장 먼저** 보는 목록. 새로 확인한 곳은 표에 한 줄씩 추가하고, 등급이 바뀌면 고친다.
 사진은 브랜드가 보도·미디어용으로 공개한 것만 쓴다. 원본 비율 그대로, `PHOTO · 브랜드` 표기.
 
+## 이 세션에서 접속 가능한 이미지 주소 (2026-11-10 확인)
+주소 | 상태
+---|---
+tong.visitkorea.or.kr (한국관광공사 사진) | 받기 가능
+mnd-assets.mynewsdesk.com (Mynewsdesk 보도사진) | 받기 가능 — 오디오 브랜드는 적음(DJI, Dirac, CBK 등)
+upload.wikimedia.org · commons.wikimedia.org | 접속 가능, 요청 제한(429) 잦음
+clynemedia.com · cdn.uc.assets.prezly.com · cdn.mos.cms.futurecdn.net · proavl-asia.com · e-techasia.com · teenage.engineering · adam-audio.com | 막힘 — 운영자가 허용 목록에 추가해야 함
+
 ## 등급
 - **A — 바로 사용:** 공개 다운로드 + '보도/편집용' 명시. 바로 쓴다.
 - **B — 보도자료 첨부 사진:** 뉴스룸·PR 대행사가 보도자료에 고해상도 사진을 붙여 배포(이용 조건 문구는 없음). 보도자료 내용을 다루는 기사에 한해, 그 보도자료의 사진만 쓴다.
