@@ -41,3 +41,7 @@
 2026-11-11 | 5 | 033 | [단신] 무선이 끊기면, 소리는 어디에 남을까? (DJI Mic Mini 2S, 사진: DJI Mynewsdesk Media Use) | mynewsdesk.com/uk/dji, petapixel.com
 2026-11-11 | 3 | 034 | 1,528dB짜리 그릇, 정말 안 넘칠까? (32-Bit Float Recording) | sounddevices.com, dpamicrophones.com, IEEE 754
 2026-11-11 | 1·2 | - | 미제작: 사진 없음(Commons API 429, tong.visitkorea 부산콘서트홀 사진은 공공누리 유형 확인 불가, 보도사진 도메인 대부분 접속 차단 — Mynewsdesk DJI만 가능) | -
+2026-11-12 | 4 | 035 | [단신] 라이브 13, 베타로 먼저 열렸다 (Ableton Live 13 Public Beta) | ableton.com/beta, gearnews.com, synthanatomy.com
+2026-11-12 | 5 | 036 | [단신] 1979년 워크맨 헤드폰, USB-C로 돌아왔다 (Sony MDR-3R) | sony-mea.com, 9to5google.com, gearnews.com
+2026-11-12 | 3 | 037 | [GUIDE] BBC 필하모닉, 11년 만에 한국에 온다 (서울 12.12·대구 12.16, 김봄소리 협연) | sac.or.kr, nol.yanolja.com, 내한 보도
+2026-11-12 | 1·2 | - | 미제작: 사진 없음(Commons 응답 없음/429, 보도사진 도메인 접속 제한 — 시간 내 2장 확보 실패) | -
