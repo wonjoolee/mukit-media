@@ -45,3 +45,7 @@
 2026-11-12 | 5 | 036 | [단신] 1979년 워크맨 헤드폰, USB-C로 돌아왔다 (Sony MDR-3R) | sony-mea.com, 9to5google.com, gearnews.com
 2026-11-12 | 3 | 037 | [GUIDE] BBC 필하모닉, 11년 만에 한국에 온다 (서울 12.12·대구 12.16, 김봄소리 협연) | sac.or.kr, nol.yanolja.com, 내한 보도
 2026-11-12 | 1·2 | - | 미제작: 사진 없음(Commons 응답 없음/429, 보도사진 도메인 접속 제한 — 시간 내 2장 확보 실패) | -
+2026-11-13 | 4 | 038 | [단신] 1963년의 작은 기타, 왜 80대만 만들까? (Martin 00-21 Gram Parsons) | premierguitar.com, musicradar.com, guitarworld.com
+2026-11-13 | 5 | 039 | [단신] 남이 뜬 앰프 캡처, 내 플러그인에 꽂힐까? (Positive Grid BIAS X 1.3, NAM A2) | guitarworld.com, kvraudio.com
+2026-11-13 | 3 | 040 | 건반을 9초 누르면, 무슨 소리가 날까? (Mellotron, 1963) | mellotron.com, soundonsound.com, 120years.net
+2026-11-13 | 1·2 | - | 미제작: 사진 없음(Commons 429로 포기, 보도사진 도메인 접속 제한 — 2장 확보 실패). Behringer Polyeight는 KIT 021과 중복이라 제외 | -
