@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "number",
+ "caption": "KIT 043 · Cooper Time Cube (1971)\n고무호스를 지나는 데 30밀리초가 걸렸다\n\n1971년 유니버설 오디오 창업자 빌 퍼트넘과 듀앤 H. 쿠퍼가 내놓은 쿠퍼 타임 큐브는 소리를 감긴 고무호스에 흘려보내 늦추는 딜레이였다. 한쪽 끝 마이크 캡슐이 스피커처럼 소리를 밀어 넣고, 반대쪽 끝 캡슐이 다시 받는다. UA는 양 끝에 SM57 계열 슈어 캡슐을 썼다고 설명한다.\n\n고를 수 있는 지연은 14ms, 16ms, 둘을 이은 30ms뿐이다. 메아리라기엔 짧고, 소리를 두 겹으로 두껍게 만들기 좋은 거리라 더블링과 슬랩백에 쓰였다. 루퍼스 〈Tell Me Something Good〉, 워 〈Low Rider〉가 대표 사례로 꼽힌다. 원본은 1,000대만 만들어지고 일찍 단종됐다.\n\n11월 12일 UA가 이 상자를 네이티브 플러그인(AU/VST3/AAX)으로 다시 냈다. 플러그인은 라인당 5ms–2.5s, 템포 싱크를 더했다.\n\n1971 · 14/16/30 ms 고정 · 1,000대 | 2026 플러그인 · 라인당 5ms–2.5s · US $49(UA 표기)\n\nSource: Universal Audio \"The Cooper Time Cube\"(https://www.uaudio.com/blogs/ua/cooper-time-cube-power), UA 제품 페이지(https://www.uaudio.com/products/cooper-time-cube), TEC Awards(https://www.tecawards.org/node/1388), ProSoundWeb(2026.11.12)\n\n더블링엔 어떤 딜레이를 쓰시나요? 댓글로.\n\n#MUKIT #뮤킷 #CooperTimeCube #UniversalAudio #딜레이 #더블링 #레코딩 #믹싱 #명기",
+ "reel_caption": "1971년, 고무호스 속을 지나며 늦춰진 소리. 14·16·30ms 세 가지뿐이던 딜레이가 다시 플러그인이 됐다.\n자세한 이야기는 피드의 KIT 043에서.\n#MUKIT #뮤킷 #CooperTimeCube #딜레이 #레코딩",
+ "tags": []
+}

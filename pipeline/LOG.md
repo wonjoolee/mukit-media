@@ -49,3 +49,7 @@
 2026-11-13 | 5 | 039 | [단신] 남이 뜬 앰프 캡처, 내 플러그인에 꽂힐까? (Positive Grid BIAS X 1.3, NAM A2) | guitarworld.com, kvraudio.com
 2026-11-13 | 3 | 040 | 건반을 9초 누르면, 무슨 소리가 날까? (Mellotron, 1963) | mellotron.com, soundonsound.com, 120years.net
 2026-11-13 | 1·2 | - | 미제작: 사진 없음(Commons 429로 포기, 보도사진 도메인 접속 제한 — 2장 확보 실패). Behringer Polyeight는 KIT 021과 중복이라 제외 | -
+2026-11-14 | 4 | 041 | [단신] 커뮤니티 플러그인 227개, 이제 공식 길이 열렸다 (Akai MPC OS 3.10.1 Plugin SDK) | synthanatomy.com, noiseharmony.com
+2026-11-14 | 5 | 042 | [단신] 128dB 변환 위에 룸 보정까지 얹었다 (Audient iD MK3) | audient.com, sonicstate.com, prosoundweb.com
+2026-11-14 | 3 | 043 | 고무호스를 지나는 데 30밀리초가 걸렸다 (Cooper Time Cube, 1971) | uaudio.com(blog·제품 페이지), tecawards.org, prosoundweb.com
+2026-11-14 | 1·2 | - | 미제작: 사진 없음(audient.com 등 보도사진 도메인 접속 차단 403, Commons는 시간상 미시도 — 2장 확보 실패) | -
