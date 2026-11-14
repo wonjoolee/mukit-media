@@ -4,6 +4,8 @@
  "carousel_id": "18083844014341906",
  "carousel_url": "https://www.instagram.com/p/DfrlP3GFNU0/",
  "carousel_note": "error after publish, but post is live: publish error: {'error': {'message': 'Application request limit reached', 'code': 4, 'type': 'OAuthException', 'error_subcode': 2207051, 'is_transient': False, 'error_user_msg': 'We restrict certain a",
- "reel_error": "reel not finished: {'id': '18027382004715603', 'status': 'Error: Media upload has failed with error code 2207077', 'status_code': 'ERROR'}",
- "story_id": "17918024112494352"
+ "story_id": "17918024112494352",
+ "retries": 1,
+ "reel_id": "17928059505204980",
+ "reel_url": "https://www.instagram.com/reel/DftFLsiFdrw/"
 }
