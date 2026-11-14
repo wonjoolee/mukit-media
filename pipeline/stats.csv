@@ -52,5 +52,7 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-13,slot3,reel,KIT 040 · Mellotron (1963),news,question,0,0,20:59
 2026-11-13,slot4,carousel,KIT 038 · Martin 00-21 Gram Parsons,brief,question,0,0,10:00
 2026-11-13,slot5,carousel,KIT 039 · Positive Grid BIAS X 1.3 adds ,brief,question,0,0,17:59
+2026-11-14,slot3,carousel,KIT 043 · Cooper Time Cube (1971),news,number,0,0,20:59
+2026-11-14,slot3,reel,KIT 043 · Cooper Time Cube (1971),news,number,0,0,20:59
 2026-11-14,slot4,carousel,KIT 041 · Akai MPC OS 3.10.1 Plugin SDK,brief,number,0,0,09:59
 2026-11-14,slot5,carousel,KIT 042 · Audient iD MK3,brief,number,0,0,17:59
