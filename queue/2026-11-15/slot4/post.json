@@ -1,0 +1,6 @@
+{
+ "type": "brief",
+ "hook": "question",
+ "caption": "KIT 044 · Sonicware CyDrums 2.0\n합성만 하던 드럼 머신, 이제 소리도 받아 적을까?\n\n소닉웨어가 웨이브테이블 드럼 신스 CyDrums의 펌웨어 2.0을 공개 베타로 풀었다(11월 4일). 새 구조 SP DUAL로 레이어마다 샘플을 얹어 함께 울린다. 1/4\" TRS 입력이나 USB로 녹음하거나 불러오고, Synth Anatomy에 따르면 한 샘플은 최대 4초다. LFO 모듈레이션과 Feel 기능, 버그 수정도 들어갔다. 공식 다운로드 페이지에서 무료로 받을 수 있지만 아직 베타라 작업 패턴은 백업해 두는 편이 좋다.\nMUKIT 한 줄: 합성 엔진 22개 위에 4초짜리 '내 소리'를 얹는다.\n\nSource: Sonicware Downloads(https://sonicware.jp/pages/downloads), Synth Anatomy(https://synthanatomy.com/2026/11/sonicware-cydrums-portable-drum-synthesizer-with-wavetables.html)\n\nCyDrums 쓰는 분, 무엇부터 샘플링할 건가요? 댓글로.\n\n#MUKIT #뮤킷 #Sonicware #CyDrums #드럼머신 #신디사이저 #샘플링 #펌웨어",
+ "tags": []
+}

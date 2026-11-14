@@ -53,3 +53,7 @@
 2026-11-14 | 5 | 042 | [단신] 128dB 변환 위에 룸 보정까지 얹었다 (Audient iD MK3) | audient.com, sonicstate.com, prosoundweb.com
 2026-11-14 | 3 | 043 | 고무호스를 지나는 데 30밀리초가 걸렸다 (Cooper Time Cube, 1971) | uaudio.com(blog·제품 페이지), tecawards.org, prosoundweb.com
 2026-11-14 | 1·2 | - | 미제작: 사진 없음(audient.com 등 보도사진 도메인 접속 차단 403, Commons는 시간상 미시도 — 2장 확보 실패) | -
+2026-11-15 | 4 | 044 | [단신] 합성만 하던 드럼 머신, 이제 소리도 받아 적을까? (Sonicware CyDrums FW 2.0 beta) | sonicware.jp/pages/downloads, synthanatomy.com
+2026-11-15 | 5 | 045 | [단신] PRS는 왜 새 기타에서 버드 인레이를 뺐을까? (PRS Tekton) | guitarworld.com, premierguitar.com, mixdownmag.com.au
+2026-11-15 | 3 | 046 | [GUIDE] 폴 사이먼의 드러머를 신촌에서 듣는다면? (Blicher Hemmer Gadd 내한 2027.01.29) | nol.yanolja.com, blicherhemmergadd.com, drummingnewsnetwork.com, positive-feedback.com
+2026-11-15 | 1·2 | - | 미제작: 사진 없음(제작 시간 내 보도사진 2장 확보 못함 — 보도사진 도메인 접속 제한, Commons 미시도) | -
