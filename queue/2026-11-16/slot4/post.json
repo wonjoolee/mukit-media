@@ -1,0 +1,6 @@
+{
+ "type": "brief",
+ "hook": "number",
+ "caption": "KIT 047 · Neural DSP NanOS 2.3.0\n작은 앰프 모델러에 이펙트 5개, 메트로놈 하나\n\n뉴럴 DSP가 나노 코텍스용 시스템 업데이트 NanOS 2.3.0을 공개했다. 리버브 2종(스트라이몬 BigSky의 Bloom 모드를 모델링한 Blossom, Shimmer)과 피치 3종(EHX POG 모델링 Poly Octaver, 디지테크 Whammy 모델링 Wham, 보스 OC-2 모델링 Chief OC2)이 들어갔다. Cortex Cloud 앱의 템포 메뉴에는 메트로놈이 생겼다. 음량·소리·박자표·세분을 고를 수 있고, 프리셋을 바꿔도 현재 템포에 맞춰 계속 울린다. 페달을 2.3.0으로 올리고 앱도 최신 버전으로 업데이트하면 된다.\nMUKIT 한 줄: 연습할 때 휴대폰 메트로놈 앱을 하나 덜 켜도 된다.\n\nSource: Neural DSP(https://neuraldsp.com/nano-cortex-updates/nanos-2-3-0-is-now-available), ProSoundWeb(https://www.prosoundweb.com/neural-dsp-releases-nanos-2-3-0-offering-new-effects-metronome/)\n\n나노 코텍스 쓰는 분, 어떤 이펙트부터 써 볼 건가요? 댓글로.\n\n#MUKIT #뮤킷 #NeuralDSP #NanoCortex #앰프모델러 #기타이펙터 #펌웨어 #메트로놈",
+ "tags": []
+}

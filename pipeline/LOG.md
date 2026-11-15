@@ -57,3 +57,8 @@
 2026-11-15 | 5 | 045 | [단신] PRS는 왜 새 기타에서 버드 인레이를 뺐을까? (PRS Tekton) | guitarworld.com, premierguitar.com, mixdownmag.com.au
 2026-11-15 | 3 | 046 | [GUIDE] 폴 사이먼의 드러머를 신촌에서 듣는다면? (Blicher Hemmer Gadd 내한 2027.01.29) | nol.yanolja.com, blicherhemmergadd.com, drummingnewsnetwork.com, positive-feedback.com
 2026-11-15 | 1·2 | - | 미제작: 사진 없음(제작 시간 내 보도사진 2장 확보 못함 — 보도사진 도메인 접속 제한, Commons 미시도) | -
+2026-11-16 | 4 | 047 | [단신] 작은 앰프 모델러에 이펙트 5개, 메트로놈 하나 (Neural DSP NanOS 2.3.0) | neuraldsp.com, prosoundweb.com
+2026-11-16 | 2 | 048 | [GUIDE][WEEK] 수요일 19:30, 서울 두 홀에서 동시에 (THIS WEEK 11.17–11.23) | nol.yanolja.com, sac.or.kr, koreaherald.com, says.com
+2026-11-16 | 5 | 049 | [단신] 수신기 없이 폰에 바로, 이제 안드로이드도 (RØDE Capture for Android) | newsshooter.com, sonicstate.com
+2026-11-16 | 3 | 050 | 기타 케이블의 잭은 1878년 전화 교환대에서 왔다 (The 1/4" Jack) | wikipedia.org(Phone connector), wkiri.com, US 711556
+2026-11-16 | 1 | - | 미제작: 사진 없음(Commons 429로 포기, 보도사진 도메인 접속 제한 — 2장 확보 실패). THIS WEEK 공공누리 공연장 사진도 시간상 미확보. Xfer Shrub(FM-1 펌웨어)는 출처 1곳·배포 링크 철회 의혹으로 제외 | -
