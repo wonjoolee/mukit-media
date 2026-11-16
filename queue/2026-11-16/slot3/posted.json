@@ -1,0 +1,10 @@
+{
+ "slot": 3,
+ "posted_at": "2026-11-16T21:00:21.970463+09:00",
+ "carousel_id": "18154891456555697",
+ "carousel_url": "https://www.instagram.com/p/DfzTuAQl7Ko/",
+ "carousel_note": "error after publish, but post is live: publish error: {'error': {'message': 'Application request limit reached', 'type': 'OAuthException', 'is_transient': False, 'code': 4, 'error_subcode': 2207051, 'error_user_title': 'action is blocked',",
+ "reel_id": "18144286420623812",
+ "reel_url": "https://www.instagram.com/reel/DfzT3v3ASmb/",
+ "story_id": "18435523546183615"
+}
