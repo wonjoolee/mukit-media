@@ -60,3 +60,6 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-15,slot3,reel,KIT 046 · [GUIDE] Blicher Hemmer Gadd in,guide,question,0,0,20:59
 2026-11-15,slot4,carousel,KIT 044 · Sonicware CyDrums 2.0,brief,question,0,0,09:59
 2026-11-15,slot5,carousel,KIT 045 · PRS Tekton,brief,question,0,0,17:59
+2026-11-16,slot2,carousel,THIS WEEK · 11.17 – 11.23,thisweek,number,0,0,12:09
+2026-11-16,slot2,reel,THIS WEEK · 11.17 – 11.23,thisweek,number,0,0,12:09
+2026-11-16,slot4,carousel,KIT 047 · Neural DSP NanOS 2.3.0,brief,number,0,0,09:59
