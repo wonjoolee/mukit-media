@@ -62,3 +62,7 @@
 2026-11-16 | 5 | 049 | [단신] 수신기 없이 폰에 바로, 이제 안드로이드도 (RØDE Capture for Android) | newsshooter.com, sonicstate.com
 2026-11-16 | 3 | 050 | 기타 케이블의 잭은 1878년 전화 교환대에서 왔다 (The 1/4" Jack) | wikipedia.org(Phone connector), wkiri.com, US 711556
 2026-11-16 | 1 | - | 미제작: 사진 없음(Commons 429로 포기, 보도사진 도메인 접속 제한 — 2장 확보 실패). THIS WEEK 공공누리 공연장 사진도 시간상 미확보. Xfer Shrub(FM-1 펌웨어)는 출처 1곳·배포 링크 철회 의혹으로 제외 | -
+2026-11-17 | 4 | 051 | [단신] 남이 뜬 앰프 캡처, 이제 페달에 몇 개까지 들어갈까? (Blackstar ID:X Floor NAM A2 Lite) | tone3000.com, musicradar.com, sonicstate.com
+2026-11-17 | 5 | 052 | [단신] 스트리밍 말고, 곡을 쓴 몫은 누가 받아 주고 있나? (DistroKid Publishing) | musicbusinessworldwide.com, sonicstate.com, distrokid.com
+2026-11-17 | 3 | 053 | 스피커는 왜 1분에 400번 돌았을까? (Leslie Speaker, 1941) | soundonsound.com, psaudio.com(Copper), wikipedia.org(Leslie speaker)
+2026-11-17 | 1·2 | - | 미제작: 사진 없음(Commons API 응답 없음으로 포기, 보도사진 도메인 접속 제한 — 2장 확보 실패). HLABS CL089·Fred's Lab Octane은 원문 열람 불가/출처 1곳이라 제외 | -
