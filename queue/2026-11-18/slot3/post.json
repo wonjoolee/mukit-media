@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "number",
+ "caption": "KIT 056 · Why MIDI runs at 31,250 bits per second\n1초에 31,250비트. MIDI 케이블은 40년 넘게 이 속도다\n\n1981년 AES에서 시퀀셜의 데이브 스미스가 '유니버설 신디사이저 인터페이스'를 발표했고, 롤랜드가 함께 밀었다. 1983년 1월 NAMM에서 Prophet-600과 Jupiter-6가 케이블 하나로 연결됐다. 그때 정한 속도가 31,250비트/초, 1MHz 클록을 32로 나눈 값이다. 1985년 MIDI를 정리한 개러스 로이도 '왜 이 숫자인지 아는 사람이 없는 것 같다'고 썼다.\n\n한 바이트는 시작·데이터 8·정지 비트까지 10비트로 간다. 건반 하나의 '노트 온'은 3바이트, 약 1ms. 같은 순간 누른 10음 화음은 약 10ms(러닝 스테이터스로 약 7ms)에 걸쳐 차례로 전달된다. 그래도 싸고 단순한 규격이라 여러 회사가 함께 쓸 수 있었고, 2013년 카케하시 이쿠타로와 데이브 스미스는 MIDI로 테크니컬 그래미를 받았다.\n\n31,250 bit/s · 10 bit/byte · 16채널 · 5핀 DIN · 5mA 광절연 루프\n\nSource: Gareth Loy, 'Musicians Make a Standard: The MIDI Phenomenon', Computer Music Journal 9(4), 1985(https://web.uvic.ca/~aschloss/course_mat/MU307/MUS307_MATERIALS/Loy_MIDI%20standard.pdf), MIDI Association(https://midi.org/the-history-of-midi), MusicRadar(https://www.musicradar.com/news/tech/30-years-of-midi-a-brief-history-568009), Yamaha(https://usa.yamaha.com/business/audio/resources/self-training/micro-tutorial/20171019/)\n\n아직 DIN 케이블 쓰는 장비, 몇 대 있나요? 댓글로.\n\n#MUKIT #뮤킷 #MIDI #미디 #신디사이저 #음향기술 #장비이야기 #홈스튜디오 #DaveSmith",
+ "reel_caption": "MIDI는 1983년부터 1초에 31,250비트로 달린다. 열 손가락 화음은 약 10ms에 걸쳐 차례로 간다. 자세한 이야기는 피드의 KIT 056에서.\n\n#MUKIT #뮤킷 #MIDI #신디사이저 #음향기술",
+ "tags": []
+}

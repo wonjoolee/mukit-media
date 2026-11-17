@@ -66,3 +66,7 @@
 2026-11-17 | 5 | 052 | [단신] 스트리밍 말고, 곡을 쓴 몫은 누가 받아 주고 있나? (DistroKid Publishing) | musicbusinessworldwide.com, sonicstate.com, distrokid.com
 2026-11-17 | 3 | 053 | 스피커는 왜 1분에 400번 돌았을까? (Leslie Speaker, 1941) | soundonsound.com, psaudio.com(Copper), wikipedia.org(Leslie speaker)
 2026-11-17 | 1·2 | - | 미제작: 사진 없음(Commons API 응답 없음으로 포기, 보도사진 도메인 접속 제한 — 2장 확보 실패). HLABS CL089·Fred's Lab Octane은 원문 열람 불가/출처 1곳이라 제외 | -
+2026-11-18 | 4 | 054 | [단신] 아끼는 신스 한 대, 몇 번 눌러야 악기가 될까? (Decent Sampler 1.40 Auto Sampler) | decentsamples.com/blog, synthanatomy.com
+2026-11-18 | 5 | 055 | [단신] 자기 하드웨어를 자기 손으로 플러그인에 (Pittsburgh Modular Microvolt 3901) | sonicstate.com, gearnews.com, synthanatomy.com
+2026-11-18 | 3 | 056 | 1초에 31,250비트, MIDI 케이블은 40년 넘게 이 속도다 (MIDI 1.0, 1983) | Loy(Computer Music Journal 1985), midi.org, musicradar.com, yamaha.com
+2026-11-18 | 1·2 | - | 미제작: 사진 없음(Commons 검색 1회 성공 후 다운로드 429로 포기, 보도사진 도메인 접속 제한 — 2장 확보 실패). 슬롯3도 Commons 429로 글자 카드 | -

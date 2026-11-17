@@ -1,0 +1,6 @@
+{
+ "type": "brief",
+ "hook": "number",
+ "caption": "KIT 054 · Decent Sampler 1.40 adds Auto Sampler\n아끼는 신스 한 대, 몇 번 눌러야 악기가 될까?\n\n무료 샘플러 Decent Sampler가 1.40에서 오토 샘플러를 더했다. 신스를 MIDI로 한 음씩 연주시키고 녹음한 뒤, 무음을 잘라 건반에 자동으로 배치한다. 녹음 음역, 몇 음 간격으로 뜰지, 한 음을 누르는 시간을 정하면 되고, 벨로시티 레이어·라운드 로빈·루프 찾기도 맡길 수 있다. 결과는 초록·노랑·빨강으로 표시돼 문제 있는 테이크만 다시 녹음한다. Mac·Windows에서 쓰며, MIDI를 받는 신스와 오디오 인터페이스가 필요하다.\nMUKIT 한 줄: 손으로 수십 번 하던 녹음을 기계에 맡긴다.\n\nSource: Decent Samples(https://decentsamples.com/blog), Synth Anatomy(https://synthanatomy.com/2026/11/decent-sampler-makes-custom-instrument-building-easier-with-auto-sampler-preset-editor-more.html)\n\n써 보신 분, 어떤 신스를 떠 보셨나요? 댓글로.\n\n#MUKIT #뮤킷 #DecentSampler #샘플러 #샘플링 #신디사이저 #홈스튜디오 #무료플러그인",
+ "tags": []
+}
