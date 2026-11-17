@@ -66,5 +66,7 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-16,slot3,reel,"KIT 050 · The 1/4"" Jack, from the Switch",news,number,1,0,21:00
 2026-11-16,slot4,carousel,KIT 047 · Neural DSP NanOS 2.3.0,brief,number,0,0,09:59
 2026-11-16,slot5,carousel,KIT 049 · RØDE Capture for Android,brief,number,0,0,18:00
+2026-11-17,slot3,carousel,"KIT 053 · The Leslie Speaker, 1941",news,question,0,0,20:59
+2026-11-17,slot3,reel,"KIT 053 · The Leslie Speaker, 1941",news,question,0,0,20:59
 2026-11-17,slot4,carousel,KIT 051 · Blackstar ID:X Floor gets NAM ,brief,question,0,0,09:59
 2026-11-17,slot5,carousel,KIT 052 · DistroKid Publishing,brief,question,0,0,18:00
