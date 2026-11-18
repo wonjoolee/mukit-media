@@ -1,0 +1,6 @@
+{
+ "type": "brief",
+ "hook": "question",
+ "caption": "KIT 058 · Yamaha VOCALOID7\n가상 보컬에게 '발음의 세기'를 줄 수 있을까?\n\n야마하가 보컬로이드7을 11월 11일 발매했다(다운로드 전용). 2세대 VOCALOID:AI 엔진에 ATTACK 파라미터로 발음의 또렷함을, VOICE TYPE으로 같은 보이스뱅크 안의 음색을 바꾼다(VOICE TYPE은 V7 전용 보이스뱅크만). Cubase 키 에디터에서 음표와 가사를 바로 입력하고, 피치 커브를 고정해 다른 보이스뱅크에 그대로 옮길 수 있다. AI 엔진은 일본어·영어·중국어. 기본 보이스뱅크 asa에 전용 보이스뱅크 다섯(AI Megpoid, GekiyakuV, KazehikiV, NurseRobot_TypeT, LUCI)이 함께 나왔다.\nMUKIT 한 줄: 음표 다음은 자음의 세기다.\n\n에디터 US $129(일본 16,500엔, 세금 포함) · V3~V6 업그레이드 $69, 12월 20일까지 $39 · Windows/macOS, VST3/AU · 국내가 미확인\n\nSource: Yamaha 보도자료(https://www.yamaha.com/ja/news_release/2026/26102302/), Synthtopia(https://www.synthtopia.com/content/2026/11/14/yamaha-updates-vocaloid-with-more-expressive-ai-singing-five-new-voicebanks/)\n\n보컬로이드로 가이드 보컬 만들어 보신 분? 댓글로.\n\n#MUKIT #뮤킷 #VOCALOID #보컬로이드 #Yamaha #가상보컬 #Cubase #작곡",
+ "tags": []
+}

@@ -70,3 +70,7 @@
 2026-11-18 | 5 | 055 | [단신] 자기 하드웨어를 자기 손으로 플러그인에 (Pittsburgh Modular Microvolt 3901) | sonicstate.com, gearnews.com, synthanatomy.com
 2026-11-18 | 3 | 056 | 1초에 31,250비트, MIDI 케이블은 40년 넘게 이 속도다 (MIDI 1.0, 1983) | Loy(Computer Music Journal 1985), midi.org, musicradar.com, yamaha.com
 2026-11-18 | 1·2 | - | 미제작: 사진 없음(Commons 검색 1회 성공 후 다운로드 429로 포기, 보도사진 도메인 접속 제한 — 2장 확보 실패). 슬롯3도 Commons 429로 글자 카드 | -
+2026-11-19 | 4 | 057 | [단신] 손바닥 신스에 오실레이터를 네 개 더 꽂으면? (Sinevibes for KORG NTS-1 mkII) | sonicstate.com, sinevibes.com
+2026-11-19 | 5 | 058 | [단신] 가상 보컬에게 '발음의 세기'를 줄 수 있을까? (Yamaha VOCALOID7) | yamaha.com(보도자료), synthtopia.com
+2026-11-19 | 3 | 059 | [GUIDE] 같은 피아니스트, 통영에서 들을까 서울에서 들을까? (Nikolai Lugansky 12.20 통영·12.22 서울) | nol.yanolja.com(26012177·26010096), newsis.com
+2026-11-19 | 1·2 | - | 미제작: 사진 없음(보도사진 도메인 접속 제한, Commons 미시도 — 2장 확보 못함). soundmachines DYNAMO는 출처 1곳(보도자료)만 열람돼 제외 | -
