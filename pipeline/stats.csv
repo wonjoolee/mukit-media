@@ -74,5 +74,7 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-18,slot3,reel,"KIT 056 · Why MIDI runs at 31,250 bits p",news,number,1,0,21:00
 2026-11-18,slot4,carousel,KIT 054 · Decent Sampler 1.40 adds Auto ,brief,number,0,0,09:59
 2026-11-18,slot5,carousel,KIT 055 · Pittsburgh Modular Microvolt 3,brief,number,0,0,17:59
+2026-11-19,slot3,carousel,KIT 059 · Nikolai Lugansky Piano Recital,guide,question,0,0,21:00
+2026-11-19,slot3,reel,KIT 059 · Nikolai Lugansky Piano Recital,guide,question,0,0,21:00
 2026-11-19,slot4,carousel,KIT 057 · Sinevibes oscillators for KORG,brief,question,0,0,09:59
 2026-11-19,slot5,carousel,KIT 058 · Yamaha VOCALOID7,brief,question,0,0,17:59
