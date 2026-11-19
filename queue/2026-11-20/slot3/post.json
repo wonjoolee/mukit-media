@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "number",
+ "caption": "KIT 062 · Sequential Prophet VS (1986)\n조이스틱 하나로 파형 네 개를 섞었다\n\n1986년에 나온 시퀀셜 프로펫 VS는 8보이스 신스다. 보이스마다 오실레이터 4개가 서로 다른 파형을 내고, 조이스틱이 네 소리의 비율을 정한다. 조이스틱이 지나간 길은 기록해 두었다가 음이 나는 동안 다시 따라가게 할 수 있었다. 이 방식을 '벡터 합성'이라 불렀다.\n\n파형은 128개(공장 96 + 사용자 32)였고, 소리는 커티스 4폴 로우패스 필터와 5단 엔벨로프를 지났다. 디지털 파형을 아날로그 필터로 깎은 셈이다. 개발에 참여한 크리스 마이어는 이 설계에 오실레이터 32개가 필요했다고 적었다.\n\n프로펫 VS는 시퀀셜의 첫 디지털 신스이자 마지막 신스였다. MusicRadar에 따르면 회사는 출시 1년 만에 문을 닫았고, 야마하가 VS 개발팀을 데려갔다. 벡터 합성은 1990년 야마하 SY22와 코르그 웨이브스테이션으로 다시 나왔다.\n\nSource: Chris Meyer, The Story of the Prophet VS(https://learningmodular.com/the-story-of-the-prophet-vs/), MusicRadar(https://www.musicradar.com/news/tech/blast-from-the-past-sequential-circuits-prophet-vs-619031), Vintage Synth Explorer(https://www.vintagesynth.com/sequential-circuits/prophet-vs)\n\nVS나 웨이브스테이션 만져 본 분, 댓글로 들려주세요.\n\n#MUKIT #뮤킷 #ProphetVS #SequentialCircuits #벡터합성 #신디사이저 #빈티지신스 #Wavestation #장비이야기",
+ "reel_caption": "1986년 프로펫 VS는 보이스마다 파형 네 개를 두고 조이스틱으로 섞었다. 회사는 1년 뒤 문을 닫았지만 벡터 합성은 1990년에 다시 나왔다. 자세한 이야기는 피드의 KIT 062에서.\n\n#MUKIT #뮤킷 #ProphetVS #벡터합성 #빈티지신스",
+ "tags": []
+}

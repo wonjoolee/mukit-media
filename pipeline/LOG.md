@@ -74,3 +74,7 @@
 2026-11-19 | 5 | 058 | [단신] 가상 보컬에게 '발음의 세기'를 줄 수 있을까? (Yamaha VOCALOID7) | yamaha.com(보도자료), synthtopia.com
 2026-11-19 | 3 | 059 | [GUIDE] 같은 피아니스트, 통영에서 들을까 서울에서 들을까? (Nikolai Lugansky 12.20 통영·12.22 서울) | nol.yanolja.com(26012177·26010096), newsis.com
 2026-11-19 | 1·2 | - | 미제작: 사진 없음(보도사진 도메인 접속 제한, Commons 미시도 — 2장 확보 못함). soundmachines DYNAMO는 출처 1곳(보도자료)만 열람돼 제외 | -
+2026-11-20 | 4 | 060 | [단신] 실제 OB-X8 여덟 보이스의 차이까지 쟀다 (discoDSP OB-Xd 4 · Retromulator 2.4) | kvraudio.com, discodsp.com
+2026-11-20 | 5 | 061 | [단신] 오실레이터 100개가 새 떼처럼 움직인다 (Taika Systems Photophore 2) | kvraudio.com, thebeatcommunity.com
+2026-11-20 | 3 | 062 | 조이스틱 하나로 파형 네 개를 섞었다 (Sequential Prophet VS, 1986) | learningmodular.com(Chris Meyer), musicradar.com, vintagesynth.com
+2026-11-20 | 1·2 | - | 미제작: 사진 없음(Commons 검색 1회 후 다운로드 429로 포기, 보도사진 2장 확보 못함). UDO DMNO ON은 원문 열람 불가로 제외. 슬롯3도 글자 카드 | -
