@@ -1,0 +1,6 @@
+{
+ "type": "brief",
+ "hook": "question",
+ "caption": "KIT 064 · CME WIDI Core\n손톱만 한 블루투스 MIDI, 뭘 만들어 볼까?\n\nCME가 11월 16일, 블루투스 MIDI 모듈 WIDI Core의 공개 하드웨어 사양과 MIDI 구현 문서를 개발자·악기 설계자·DIY 빌더에게 안내했다. 커스텀 컨트롤러, 설정 편집기, 무선 MIDI 장치를 만드는 기반이고, AI 코딩 도구로 작업하는 개발자도 같은 문서를 쓰면 된다고 밝혔다. 모듈 크기는 23.42×29.03×4.3mm, BLE 4/5, 동작 전압 2.0–16V, SysEx 최대 5K바이트와 MPE를 지원한다. 만든 결과물은 데모를 올리고 CME를 태그하면 소개를 검토한다(상금·마감 없음).\nMUKIT 한 줄: 무선 MIDI를 ‘사는 것’에서 ‘넣는 것’으로 바꾸자는 초대장이다.\n\n가격: 판매점 문의(공식 페이지 미표기)\n\nSource: MatrixSynth(CME 보도자료, https://www.matrixsynth.com/2026/11/cme-invites-developers-to-build-with.html), CME(https://www.cme-pro.com/widi-core), Sonicstate(https://sonicstate.com/news/2026/11/19/build-your-own-wireless-midi-tools/)\n\n직접 MIDI 장치 만들어 본 분 계신가요? 댓글로.\n\n#MUKIT #뮤킷 #CME #WIDI #블루투스MIDI #MIDI #DIY",
+ "tags": []
+}

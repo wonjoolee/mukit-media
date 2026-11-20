@@ -78,3 +78,7 @@
 2026-11-20 | 5 | 061 | [단신] 오실레이터 100개가 새 떼처럼 움직인다 (Taika Systems Photophore 2) | kvraudio.com, thebeatcommunity.com
 2026-11-20 | 3 | 062 | 조이스틱 하나로 파형 네 개를 섞었다 (Sequential Prophet VS, 1986) | learningmodular.com(Chris Meyer), musicradar.com, vintagesynth.com
 2026-11-20 | 1·2 | - | 미제작: 사진 없음(Commons 검색 1회 후 다운로드 429로 포기, 보도사진 2장 확보 못함). UDO DMNO ON은 원문 열람 불가로 제외. 슬롯3도 글자 카드 | -
+2026-11-21 | 4 | 063 | [단신] 3인치 모니터가 방을 스스로 보정할 수 있을까? (IK Multimedia iLoud Micro Monitor 2) | ikmultimedia.com, musicradar.com, sonicstate.com
+2026-11-21 | 5 | 064 | [단신] 손톱만 한 블루투스 MIDI, 뭘 만들어 볼까? (CME WIDI Core 개발 문서 공개) | matrixsynth.com(CME 보도자료), cme-pro.com, sonicstate.com
+2026-11-21 | 3 | 065 | 베이스 연습용 상자는 어떻게 애시드가 됐을까? (Roland TB-303, 1981) | roland.com(303 Story), musicradar.com
+2026-11-21 | 1·2 | - | 미제작: 사진 없음(제작 세션의 웹 열람이 검색 결과 페이지로 제한돼 보도사진·Commons 미시도 — 2장 확보 못함). Reveal Sound Spire 1.5.3은 배포일 미정, KV331 Synthmaster 3.5는 원문 열람 불가로 제외 | -

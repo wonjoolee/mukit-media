@@ -152,7 +152,7 @@ MUKIT MAGAZINE(@mukitmag) — "PRO AUDIO · MI · INSTRUMENTS / 귀와 손으로
 - 사고·소송·정치·선정적 주제, 협찬·광고 콘텐츠는 자동 운영에서 만들지 않는다.
 
 ## 태그 (확인된 계정만)
-- @rolandglobal (Roland). 그 외는 브랜드 공식 홈페이지에서 링크된 인스타그램 계정을 확인한 경우만 태그하고, 확인한 계정은 이 목록에 추가한다. 확실하지 않으면 태그하지 않는다.
+- @rolandglobal (Roland), @ikmultimedia (IK Multimedia, ikmultimedia.com 링크 확인 2026-11-21). 그 외는 브랜드 공식 홈페이지에서 링크된 인스타그램 계정을 확인한 경우만 태그하고, 확인한 계정은 이 목록에 추가한다. 확실하지 않으면 태그하지 않는다.
 
 ## 운영 중지
 - 사용자가 멈추라고 하면 `queue/PAUSE` 파일을 만들어 푸시 → 게시가 즉시 멈춘다.
