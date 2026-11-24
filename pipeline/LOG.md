@@ -82,3 +82,8 @@
 2026-11-21 | 5 | 064 | [단신] 손톱만 한 블루투스 MIDI, 뭘 만들어 볼까? (CME WIDI Core 개발 문서 공개) | matrixsynth.com(CME 보도자료), cme-pro.com, sonicstate.com
 2026-11-21 | 3 | 065 | 베이스 연습용 상자는 어떻게 애시드가 됐을까? (Roland TB-303, 1981) | roland.com(303 Story), musicradar.com
 2026-11-21 | 1·2 | - | 미제작: 사진 없음(제작 세션의 웹 열람이 검색 결과 페이지로 제한돼 보도사진·Commons 미시도 — 2장 확보 못함). Reveal Sound Spire 1.5.3은 배포일 미정, KV331 Synthmaster 3.5는 원문 열람 불가로 제외 | -
+- 2026-11-24 **미발행 릴스 회수**: post.json은 있는데 posted.json이 없는 슬롯 3개를 찾았다.
+  · queue/2026-11-03/slot3 (KIT 004 Roland TR-808, 릴스 있음) → **queue/2026-11-25/slot1로 이동.** 상시형 이야기라 지금 그대로 쓸 수 있다.
+  · queue/2026-11-04/slot3 (KIT 009 GUIDE Inter BEE 2026, 릴스 있음) — **행사가 11.18~20에 이미 끝나서 발행 불가.** 내년 행사 때 틀로 다시 쓸 수 있다.
+  · queue/2026-11-04/slot5 (KIT 008 Shure Axient Digital 1.6) — 릴스 없음. 펌웨어 버전 소식이라 현재 유효한지 확인 후 판단 필요.
+  배경: 예약 작업이 USAGE_LIMIT_REACHED로 계속 실패해 11/21 이후 큐가 비었고, 11/22~24 사흘간 발행이 없었다.
