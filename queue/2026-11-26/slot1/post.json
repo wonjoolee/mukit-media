@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "number",
+ "caption": "KIT 068 · Phantom Power, P48\n마이크 선 세 가닥에 48볼트가 숨어 있다.\n\n콘덴서 마이크의 전원은 따로 오지 않는다. XLR 케이블의 2번과 3번 핀에 똑같이 +48V(±4V)를 싣고, 1번 핀을 0V로 둔다. 6.8kΩ 저항 두 개로 양쪽에 같은 전압을 걸기 때문에 소리가 오가는 두 선 사이에는 0V. 오디오는 두 선의 차이로 다니니 직류는 소리에 끼어들지 않는다. 신호선에 숨어 간다고 해서 '팬텀'이다.\n\n시작은 1966년, 노이만이 노르웨이 방송 NRK에 마이크를 납품할 때다. 그 현장에 조명용 48V 전원이 있었다. 처음 규격은 독일 DIN 45596, 지금은 IEC 61938이 P12·P24·P48 세 가지를 정한다.\n\n전압은 높아도 전류는 작다. P48의 정격 전류는 7mA, 최대 10mA다. 다이내믹 마이크는 보통 괜찮지만 리본 마이크와 배선이 잘못된 케이블은 망가질 수 있다. 꽂고 나서 켜고, 끄고 나서 뽑자.\n\nP48 | 48V ±4V | 6.8kΩ × 2 | 정격 7mA · 최대 10mA | IEC 61938\n\nSource: DPA Mic University(https://dpamicrophones.com/mic-university/know-the-basics-about-phantom-power), ProSoundWeb(https://www.prosoundweb.com/ghost-in-the-machine-phantom-power/), Elliott Sound Products(https://www.sound-au.com/articles/p-48.htm)\n\n켜 둔 채 꽂아 본 적, 있나요? 댓글로.\n\n#MUKIT #뮤킷 #팬텀파워 #PhantomPower #콘덴서마이크 #XLR #홈스튜디오 #레코딩 #음향 #장비이야기",
+ "reel_caption": "팬텀 전원은 마이크 선 2·3번 핀에 똑같이 48볼트를 실어, 소리 선 사이엔 0볼트를 남긴다. 1966년 노르웨이 방송국 납품에서 시작됐다. 자세한 이야기는 피드의 KIT 068에서.\n\n#MUKIT #뮤킷 #팬텀파워 #콘덴서마이크 #홈스튜디오",
+ "tags": []
+}

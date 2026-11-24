@@ -91,3 +91,4 @@
 2026-11-25 | 2 | 066 | [GUIDE] 빈 필 악장의 바이올린, 2주 뒤 서울에서 들을까? (Rainer Honeck & 윤홍천 12.09 예술의전당) | sac.or.kr(SN=84092), nol.yanolja.com(26014949)
 2026-11-25 | 3 | 067 | 왜 0 dBu는 1볼트가 아니라 0.775볼트일까? (dBu · +4/−10) | sweetwater.com/insync, reverb.com/news
 2026-11-25 | - | - | 하루 3개 체제(사용량 절감, 11/24~). 슬롯2는 보도사진 대신 GUIDE(글자 카드 허용)로 채움. 어제(11/24) 큐 없음 → 0개 게시 | -
+2026-11-26 | 1 | 068 | (예비분, 11/25 제작) 마이크 선 세 가닥에 48볼트가 숨어 있다 (Phantom Power P48) | dpamicrophones.com, prosoundweb.com, sound-au.com
