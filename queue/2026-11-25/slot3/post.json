@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "question",
+ "caption": "KIT 067 · Why 0 dBu Is 0.775 Volts\n왜 0 dBu는 1볼트가 아니라 0.775볼트일까?\n\n예전 오디오 장비는 전화선처럼 긴 선로를 구동하려고 600Ω 임피던스에 맞춰 만들어졌다. 그때 기준은 전압이 아니라 전력, 600Ω 부하에 1mW가 걸리는 상태(0 dBm)였다. 그 전력을 만드는 전압은 √(0.001 × 600) = 0.775V 하나뿐이다.\n\n지금 장비는 대부분 600Ω으로 끝을 맞추지 않는다. 그래서 부하는 빼고 전압 0.775V만 0으로 남긴 단위가 dBu다. 'u'는 종단과 상관없다는 뜻의 unterminated로 널리 알려져 있다. 프로 장비 기준 +4 dBu는 약 1.228V, 가정용 기준 −10 dBV(0 dBV = 1V)는 약 0.316V.\n\n+4와 −10을 빼면 14지만, 기준이 다른 두 자로 잰 값이라 실제 차이는 약 11.8dB다. 소리가 유난히 작거나 쉽게 찌그러진다면 장비 뒤 +4/−10 스위치부터 맞춰 보자.\n\n0 dBu 0.775V | +4 dBu 1.228V | 0 dBV 1V | −10 dBV 0.316V | 차이 ≈ 11.8dB\n\nSource: Sweetwater InSync(https://www.sweetwater.com/insync/special-4-10-edition-summit/), Reverb(https://reverb.com/news/what-is-line-level-basic-pro-audio-concepts)\n\n여러분 장비의 스위치는 어느 쪽인가요? 댓글로.\n\n#MUKIT #뮤킷 #dBu #라인레벨 #오디오기초 #홈스튜디오 #믹싱 #음향 #장비이야기",
+ "reel_caption": "0 dBu가 0.775볼트인 건 600옴 선로에 1밀리와트를 걸던 시절의 흔적이다. +4 dBu와 −10 dBV의 차이도 14가 아니라 약 11.8dB. 자세한 이야기는 피드의 KIT 067에서.\n\n#MUKIT #뮤킷 #dBu #라인레벨 #홈스튜디오",
+ "tags": []
+}
