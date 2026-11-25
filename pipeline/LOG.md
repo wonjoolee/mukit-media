@@ -92,3 +92,4 @@
 2026-11-25 | 3 | 067 | 왜 0 dBu는 1볼트가 아니라 0.775볼트일까? (dBu · +4/−10) | sweetwater.com/insync, reverb.com/news
 2026-11-25 | - | - | 하루 3개 체제(사용량 절감, 11/24~). 슬롯2는 보도사진 대신 GUIDE(글자 카드 허용)로 채움. 어제(11/24) 큐 없음 → 0개 게시 | -
 2026-11-26 | 1 | 068 | (예비분, 11/25 제작) 마이크 선 세 가닥에 48볼트가 숨어 있다 (Phantom Power P48) | dpamicrophones.com, prosoundweb.com, sound-au.com
+2026-11-26 | 3 | 069 | XLR의 세 글자 중 두 글자는 나중에 붙었다 (The XLR Connector) | wikipedia.org(XLR connector), sweetwater.com/insync, plugsocketmuseum.nl
