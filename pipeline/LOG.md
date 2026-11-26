@@ -95,3 +95,4 @@
 2026-11-26 | 3 | 069 | XLR의 세 글자 중 두 글자는 나중에 붙었다 (The XLR Connector) | wikipedia.org(XLR connector), sweetwater.com/insync, plugsocketmuseum.nl
 2026-11-26 | 2 | 070 | [GUIDE] 쇼팽 콩쿠르 우승자의 라흐마니노프 2번, 2월 28일 (Montreal Symphony & Bruce Liu 02.26 부산·02.28 서울) | sac.or.kr(SN=80147), hankyung.com(202611171954i)
 2026-11-26 | - | - | 어제(11/25) 3개 중 2개 게시, 빠짐: 슬롯3(KIT 067 dBu, posted.json 없음 — 재게시 안 함). 오늘 웹 열람 일부 거부로 시간 소요, 11/27 예비분 미제작 | -
+- 2026-11-26 **미발행 회수**: queue/2026-11-25/slot3 (KIT 067 Why 0 dBu Is 0.775 Volts)이 11/25 21:30에 발행되지 않았다. GitHub 예약이 그 시간대에 돌지 않았고, 저녁 정시 게시 예약 작업은 11/24에 꺼 둔 상태였다. 상시형 내용이라 **queue/2026-11-27/slot1로 옮겨** 내일 아침에 내보낸다.
