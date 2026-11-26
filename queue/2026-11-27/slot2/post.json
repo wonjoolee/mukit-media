@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "question",
+ "caption": "KIT 071 · Equal-Loudness Contours\n작게 틀면 왜 베이스가 사라질까?\n\n귀는 모든 높이의 소리를 같은 크기로 듣지 않는다. 1933년 플레처와 먼슨은 미국음향학회지(JASA)에 헤드폰으로 잰 '같은 크기로 들리는 곡선'을 발표했다. 1kHz를 기준으로 같은 크기로 들리는 점을 이은 선이고, 그 크기의 단위가 폰(phon)이다.\n\n곡선이 가장 낮게 꺼지는 곳은 2~5kHz. 외이도 공명 등으로 귀가 가장 예민한 구간이다. 반대로 100Hz 아래에서는 곡선이 옥타브당 최대 24dB씩 가파르게 변하고, 소리가 작을수록 저역은 더 작게 들린다. 밤에 볼륨을 줄이면 베이스부터 사라지는 이유다.\n\n곡선도 한 번에 끝나지 않았다. 1956년 로빈슨·대드슨 곡선이 오래 국제 표준(ISO 226)의 바탕이었지만, 2003년 개정 때 다시 잰 값과 저역에서 최대 10~15dB 차이가 났다. 믹스를 비교할 때는 늘 같은 볼륨에서 듣자.\n\n1933 Fletcher & Munson | 1956 Robinson & Dadson | ISO 226:2003 | 가장 예민한 구간 2~5kHz | A-가중치: 40폰 곡선 바탕\n\nSource: Wikipedia(https://en.wikipedia.org/wiki/Equal-loudness_contour), HyperPhysics(https://hyperphysics.gsu.edu/hbase/Sound/eqloud.html)\n\n저장해 두고 믹스할 때 꺼내 보세요.\n\n#MUKIT #뮤킷 #등청감곡선 #믹싱 #홈스튜디오 #모니터링 #음향 #오디오기초 #장비이야기",
+ "reel_caption": "귀는 2~5kHz에 가장 예민하고, 소리가 작아질수록 저역을 더 작게 듣는다. 밤에 베이스가 사라지는 건 스피커 탓이 아닐 수 있다. 자세한 이야기는 피드의 KIT 071에서.\n\n#MUKIT #뮤킷 #등청감곡선 #믹싱 #홈스튜디오",
+ "tags": []
+}

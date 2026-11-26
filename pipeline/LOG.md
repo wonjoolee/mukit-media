@@ -96,3 +96,6 @@
 2026-11-26 | 2 | 070 | [GUIDE] 쇼팽 콩쿠르 우승자의 라흐마니노프 2번, 2월 28일 (Montreal Symphony & Bruce Liu 02.26 부산·02.28 서울) | sac.or.kr(SN=80147), hankyung.com(202611171954i)
 2026-11-26 | - | - | 어제(11/25) 3개 중 2개 게시, 빠짐: 슬롯3(KIT 067 dBu, posted.json 없음 — 재게시 안 함). 오늘 웹 열람 일부 거부로 시간 소요, 11/27 예비분 미제작 | -
 - 2026-11-26 **미발행 회수**: queue/2026-11-25/slot3 (KIT 067 Why 0 dBu Is 0.775 Volts)이 11/25 21:30에 발행되지 않았다. GitHub 예약이 그 시간대에 돌지 않았고, 저녁 정시 게시 예약 작업은 11/24에 꺼 둔 상태였다. 상시형 내용이라 **queue/2026-11-27/slot1로 옮겨** 내일 아침에 내보낸다.
+2026-11-27 | 2 | 071 | 작게 틀면 왜 베이스가 사라질까? (Equal-Loudness Contours, 1933) | wikipedia.org(Equal-loudness contour), hyperphysics.gsu.edu
+2026-11-27 | 3 | 072 | CD는 왜 하필 44.1kHz일까? (Why 44.1 kHz) | wikipedia.org(44,100 Hz · PCM adaptor), cs.columbia.edu(Watkinson)
+2026-11-27 | - | - | 어제(11/26) 3개 중 3개 게시. 슬롯1은 11/25 미발행분 KIT 067 이동분. 슬롯2는 보도사진 없어 글자 카드 해설(스튜디오 팁)로 대체. 11/28 예비분(33⅓rpm)은 원문 열람 거부로 사실 확인 못 해 미제작. 다음 GUIDE 예정 11/29 | -

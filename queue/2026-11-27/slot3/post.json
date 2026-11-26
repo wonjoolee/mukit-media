@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "question",
+ "caption": "KIT 072 · Why 44.1 kHz\nCD는 왜 하필 44.1kHz일까?\n\n답은 비디오테이프에 있다. 1970~80년대 초, 디지털 오디오를 담을 현실적인 방법은 비디오 녹화기뿐이었다. PCM 어댑터가 소리를 숫자로 바꿔 영상 신호의 줄마다 채워 넣었다. 흑백 NTSC는 245줄 × 60필드 × 3샘플, PAL은 294줄 × 50필드 × 3샘플. 둘 다 44,100이다.\n\n40kHz를 조금 넘긴 이유도 있다. 20kHz까지 담으려면 그 두 배를 넘어야 하는데(나이퀴스트), 20kHz에서 딱 자르는 필터는 만들 수 없다. 44.1kHz는 20~22.05kHz 사이에 2.05kHz의 여유를 남긴다. 1979년 소니 PCM-1600(U-matic 녹화기와 한 쌍)이 이 방식의 첫 상용 16비트 녹음기였고, 1980년 레드북 규격에서 44.1kHz·16비트가 CD의 값이 됐다.\n\n덧붙이면 컬러 NTSC는 약 59.94필드라 44.1kHz를 1.001로 나눈 약 44.056kHz를 썼다. 1987년 DAT는 48kHz로 나왔고, 지금 영상·프로 오디오의 기본이 됐다.\n\nCD 44.1kHz / 16bit | NTSC 245×60×3 | PAL 294×50×3 | 컬러 NTSC 약 44,056Hz | 44.1↔48 변환비 147:160\n\nSource: Wikipedia(https://en.wikipedia.org/wiki/44,100_Hz), Wikipedia(https://en.wikipedia.org/wiki/PCM_adaptor), Columbia Univ.(https://www.cs.columbia.edu/~hgs/audio/44.1.html)\n\n여러분 세션은 44.1k인가요, 48k인가요? 댓글로.\n\n#MUKIT #뮤킷 #샘플레이트 #44100Hz #디지털오디오 #CD #홈스튜디오 #레코딩 #장비이야기",
+ "reel_caption": "CD의 44.1kHz는 비디오테이프 한 줄에 3샘플씩 담던 시절의 숫자다. 흑백 NTSC도 PAL도 계산하면 44,100이 나온다. 자세한 이야기는 피드의 KIT 072에서.\n\n#MUKIT #뮤킷 #샘플레이트 #디지털오디오 #레코딩",
+ "tags": []
+}
