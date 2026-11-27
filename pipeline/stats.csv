@@ -1,7 +1,7 @@
 date,slot,kind,title,type,hook,likes,comments,posted_at
-2026-11-03,slot1,carousel,KIT 002 · Moog Model 112 & 210,,,0,0,08:57
-2026-11-03,slot1,reel,KIT 002 · Moog Model 112 & 210,,,1,0,08:57
-2026-11-03,slot2,carousel,KIT 003 · Neve Elements,,,0,0,12:43
+2026-11-03,slot1,carousel,KIT 002 · Moog Model 112 & 210,,,,,08:57
+2026-11-03,slot1,reel,KIT 002 · Moog Model 112 & 210,,,,,08:57
+2026-11-03,slot2,carousel,KIT 003 · Neve Elements,,,,,12:43
 2026-11-03,slot2,reel,KIT 003 · Neve Elements,,,0,0,12:43
 2026-11-04,slot1,carousel,KIT 005 · Dreadbox Alecto,,,0,0,08:05
 2026-11-04,slot1,reel,KIT 005 · Dreadbox Alecto,,,0,0,08:05
@@ -43,7 +43,7 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-11,slot3,carousel,KIT 034 · 32-Bit Float Recording,news,question,0,0,21:00
 2026-11-11,slot3,reel,KIT 034 · 32-Bit Float Recording,news,question,0,0,21:00
 2026-11-11,slot4,carousel,KIT 032 · inMusic at NAMM 2027,brief,question,0,0,10:00
-2026-11-11,slot5,carousel,KIT 033 · DJI Mic Mini 2S,brief,question,0,0,17:59
+2026-11-11,slot5,carousel,KIT 033 · DJI Mic Mini 2S,brief,question,1,0,17:59
 2026-11-12,slot3,carousel,KIT 037 · BBC Philharmonic in Korea,guide,number,0,0,21:00
 2026-11-12,slot3,reel,KIT 037 · BBC Philharmonic in Korea,guide,number,0,0,21:00
 2026-11-12,slot4,carousel,KIT 035 · Ableton Live 13 Public Beta,brief,number,0,0,09:59
@@ -86,3 +86,17 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-21,slot3,reel,KIT 065 · Roland TB-303 (1981),news,question,1,0,20:59
 2026-11-21,slot4,carousel,KIT 063 · IK Multimedia iLoud Micro Moni,brief,question,0,0,09:59
 2026-11-21,slot5,carousel,KIT 064 · CME WIDI Core,brief,question,0,0,18:00
+2026-11-25,slot1,carousel,KIT 004 · Roland TR-808,,,1,0,07:49
+2026-11-25,slot1,reel,KIT 004 · Roland TR-808,,,1,0,07:49
+2026-11-25,slot2,carousel,KIT 066 · Rainer Honeck & 윤홍천 Duo Recita,guide,question,2,0,13:47
+2026-11-25,slot2,reel,KIT 066 · Rainer Honeck & 윤홍천 Duo Recita,guide,question,0,0,13:47
+2026-11-26,slot1,carousel,"KIT 068 · Phantom Power, P48",news,number,0,0,07:29
+2026-11-26,slot1,reel,"KIT 068 · Phantom Power, P48",news,number,0,0,07:29
+2026-11-26,slot2,carousel,KIT 070 · GUIDE — Orchestre symphonique ,guide,number,0,0,12:57
+2026-11-26,slot2,reel,KIT 070 · GUIDE — Orchestre symphonique ,guide,number,1,0,12:57
+2026-11-26,slot3,carousel,KIT 069 · The XLR Connector,news,contrast,0,0,20:42
+2026-11-26,slot3,reel,KIT 069 · The XLR Connector,news,contrast,0,0,20:42
+2026-11-27,slot1,carousel,KIT 067 · Why 0 dBu Is 0.775 Volts,news,question,0,0,07:29
+2026-11-27,slot1,reel,KIT 067 · Why 0 dBu Is 0.775 Volts,news,question,0,0,07:29
+2026-11-27,slot2,carousel,KIT 071 · Equal-Loudness Contours,news,question,0,0,12:10
+2026-11-27,slot2,reel,KIT 071 · Equal-Loudness Contours,news,question,0,0,12:10
