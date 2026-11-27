@@ -1,0 +1,7 @@
+{
+ "type": "news",
+ "hook": "number",
+ "caption": "KIT 073 · Why A = 440 Hz\n모두가 맞추는 '라', 440은 1939년에 정해졌다\n\n19세기 중반 프랑스는 오케스트라의 기준음 '라'를 435Hz(diapason normal)로 정했다. 악단마다 소리굽쇠가 제각각이던 시절이었다. 1939년 5월, 프랑스·독일·네덜란드·이탈리아·영국 대표가 런던 BBC 본사 Broadcasting House에 모였고(스위스·미국은 우편 참여) 기준을 A=440Hz로 맞췄다.\n\n이 합의는 1955년 ISO 권고안 R 16, 1975년 정식 규격 ISO 16이 됐다. 미국 표준 전파국 WWV는 1936년부터 조율용 440Hz 신호를 송출해 왔다.\n\n그래도 모두가 440은 아니다. 빈 필하모닉은 443Hz로 알려져 있고, 유럽 대륙 악단은 대체로 440~444Hz 사이에서 조율한다. 바로크 피치는 415Hz. 오케스트라 음원 위에 건반이 미묘하게 어긋난다면 튜너의 기준값부터 확인해 보자.\n\n1859 프랑스 435Hz | 1939 런던 A=440 | 1955 ISO R 16 | 1975 ISO 16 | 바로크 415Hz\n\nSource: Wikipedia(https://en.wikipedia.org/wiki/A440_(pitch_standard)), Mental Floss(https://www.mentalfloss.com/article/547437/why-orchestras-tune-to-440-hertz-a-note)\n\n여러분 튜너는 몇 Hz에 맞춰 있나요? 댓글로.\n\n#MUKIT #뮤킷 #A440 #기준음 #튜닝 #440Hz #오케스트라 #음향상식 #장비이야기",
+ "reel_caption": "오케스트라의 '라' 440Hz는 1939년 런던에서 합의된 숫자다. 그래도 빈 필은 443Hz에 맞춘다. 자세한 이야기는 피드의 KIT 073에서.\n\n#MUKIT #뮤킷 #A440 #튜닝 #음향상식",
+ "tags": []
+}

@@ -99,3 +99,7 @@
 2026-11-27 | 2 | 071 | 작게 틀면 왜 베이스가 사라질까? (Equal-Loudness Contours, 1933) | wikipedia.org(Equal-loudness contour), hyperphysics.gsu.edu
 2026-11-27 | 3 | 072 | CD는 왜 하필 44.1kHz일까? (Why 44.1 kHz) | wikipedia.org(44,100 Hz · PCM adaptor), cs.columbia.edu(Watkinson)
 2026-11-27 | - | - | 어제(11/26) 3개 중 3개 게시. 슬롯1은 11/25 미발행분 KIT 067 이동분. 슬롯2는 보도사진 없어 글자 카드 해설(스튜디오 팁)로 대체. 11/28 예비분(33⅓rpm)은 원문 열람 거부로 사실 확인 못 해 미제작. 다음 GUIDE 예정 11/29 | -
+2026-11-28 | 1 | 073 | 모두가 맞추는 '라', 440은 1939년에 정해졌다 (A = 440 Hz) | wikipedia.org(A440 pitch standard), mentalfloss.com
+2026-11-28 | 2 | 074 | 우드스톡 무대의 마이크, 설계자는 록을 싫어했다 (Shure Unidyne III · Ernie Seeler) | shure.com/insights(the-unidyne-iii-and-ernie-seeler)
+2026-11-28 | 3 | 075 | 점심시간의 시제품이 신스를 무대로 데려갔다 (Moog Minimoog Model D, 1970) | musicradar.com, sweetwater.com/insync
+2026-11-28 | - | - | 어제(11/27) 3개 중 3개 게시. Commons 429로 사진 없음 → 3개 모두 글자 카드 해설. 슬롯2는 보도사진 없어 해설로 대체. 11/29 예비분 미제작(시간). 다음 GUIDE 예정 11/29 | -
