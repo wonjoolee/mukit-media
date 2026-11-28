@@ -43,14 +43,14 @@ def info(pages):
 
 def search(q, n=8):
     d = call(dict(action="query", generator="search", gsrnamespace=6, gsrsearch=q + " filetype:bitmap", gsrlimit=n,
-                  prop="imageinfo", iiprop="url|extmetadata|size", iiurlwidth=2000))
+                  prop="imageinfo", iiprop="url|extmetadata|size", iiurlwidth=1280))
     for r in info(d.get("query", {}).get("pages", {})):
         flag = "사용가능" if r["ok"] and (r["width"] or 0) >= 1200 else "제외"
         print(f"[{flag}] {r['title']} | {r['license']} | {r['artist']} | {r['width']}x{r['height']}")
 
 
 def get(title, outdir):
-    d = call(dict(action="query", titles=title, prop="imageinfo", iiprop="url|extmetadata|size", iiurlwidth=2000))
+    d = call(dict(action="query", titles=title, prop="imageinfo", iiprop="url|extmetadata|size", iiurlwidth=1280))
     rs = info(d.get("query", {}).get("pages", {}))
     if not rs or not rs[0]["ok"]:
         sys.exit("자유 이용 허락이 아닌 사진(NC/ND/저작권) — 쓰지 않는다")
@@ -58,7 +58,8 @@ def get(title, outdir):
     name = re.sub(r"[^A-Za-z0-9_-]+", "_", r["title"].split(":", 1)[1].rsplit(".", 1)[0])[:60]
     time.sleep(3)
     req = urllib.request.Request(r["thumb"], headers={"User-Agent": UA})
-    open(os.path.join(outdir, name + ".jpg"), "wb").write(urllib.request.urlopen(req, timeout=60).read())
+    data = urllib.request.urlopen(req, timeout=60).read()
+    open(os.path.join(outdir, name + ".jpg"), "wb").write(data)
     r["card_credit"] = f"PHOTO · {r['artist'] or '작가 미상'} / {r['license']} · Wikimedia Commons"
     json.dump(r, open(os.path.join(outdir, name + ".json"), "w"), ensure_ascii=False, indent=1)
     print("saved", name + ".jpg", "|", r["card_credit"])
