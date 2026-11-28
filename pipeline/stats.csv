@@ -8,8 +8,8 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-04,slot2,carousel,KIT 007 · Polyend Tracker Community Edit,,,,,19:55
 2026-11-04,slot2,reel,KIT 007 · Polyend Tracker Community Edit,,,,,19:55
 2026-11-04,slot4,carousel,KIT 006 · Behringer SP1200X,,,,,12:00
-2026-11-05,slot1,carousel,KIT 010 · JBL 3 Series MkIII,,,0,0,09:04
-2026-11-05,slot1,reel,KIT 010 · JBL 3 Series MkIII,,,1,0,09:04
+2026-11-05,slot1,carousel,KIT 010 · JBL 3 Series MkIII,,,,,09:04
+2026-11-05,slot1,reel,KIT 010 · JBL 3 Series MkIII,,,,,09:04
 2026-11-05,slot2,carousel,KIT 012 · Steinberg Cubase 16,,,0,0,17:30
 2026-11-05,slot2,reel,KIT 012 · Steinberg Cubase 16,,,8,0,17:30
 2026-11-05,slot3,carousel,KIT 014 · Juan Atkins 1962–2026,,,0,0,20:59
@@ -106,3 +106,5 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-28,slot1,reel,KIT 073 · Why A = 440 Hz,news,number,1,0,07:29
 2026-11-28,slot2,carousel,KIT 074 · The Unidyne III and Ernie Seel,news,contrast,0,0,12:10
 2026-11-28,slot2,reel,KIT 074 · The Unidyne III and Ernie Seel,news,contrast,0,0,12:10
+2026-11-28,slot3,carousel,KIT 075 · Moog Minimoog Model D (1970),news,number,0,0,21:00
+2026-11-28,slot3,reel,KIT 075 · Moog Minimoog Model D (1970),news,number,0,0,21:00
