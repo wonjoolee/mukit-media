@@ -3,13 +3,15 @@
 자동 제작 세션이 사진을 찾을 때 **가장 먼저** 보는 목록. 새로 확인한 곳은 표에 한 줄씩 추가하고, 등급이 바뀌면 고친다.
 사진은 브랜드가 보도·미디어용으로 공개한 것만 쓴다. 원본 비율 그대로, `PHOTO · 브랜드` 표기.
 
-## 이 세션에서 접속 가능한 이미지 주소 (2026-11-10 확인)
+## 이 세션에서 접속 가능한 이미지 주소 (2026-11-28 운영자가 허용 목록 추가 후 확인)
 주소 | 상태
 ---|---
-tong.visitkorea.or.kr (한국관광공사 사진) | 받기 가능
-mnd-assets.mynewsdesk.com (Mynewsdesk 보도사진) | 받기 가능 — 오디오 브랜드는 적음(DJI, Dirac, CBK 등). 보도자료 페이지(www.mynewsdesk.com)는 curl로 열림, 이미지 ID를 `image/upload/c_limit,w_1600,f_jpg/<ID>`로 받으면 원본 비율. DJI 사진 License: Media Use → A등급(2026-11-11 확인)
-upload.wikimedia.org · commons.wikimedia.org | 접속 가능, 요청 제한(429) 잦음
-clynemedia.com · cdn.uc.assets.prezly.com · cdn.mos.cms.futurecdn.net · proavl-asia.com · e-techasia.com · teenage.engineering · adam-audio.com | 막힘 — 운영자가 허용 목록에 추가해야 함
+clynemedia.com | **받기 가능** — 보도자료마다 'Photo Files (Click for high-res JPG)'. 고객사 목록은 clynemedia.com 첫 화면(Eventide, Audio-Technica, Focusrite, Korg, Zoom, Ernie Ball, Sensaphonics, RF Venue, Ocean Way, Capitol Studios, Blackbird 등)
+cdn.uc.assets.prezly.com | **받기 가능** — Sennheiser·Neumann·Moog 뉴스룸 첨부 이미지
+cdn.mos.cms.futurecdn.net | **받기 가능** — What Hi-Fi?·MusicRadar 이미지 서버. 크레딧이 브랜드인 사진만
+www.proavl-asia.com | **받기 가능** — 크레딧이 브랜드인 사진만
+mnd-assets.mynewsdesk.com · tong.visitkorea.or.kr | 받기 가능
+upload.wikimedia.org | 허용됨, 단 요청 제한(429)이 잦다 — 하루 몇 장만, 표준 썸네일(1280px)로
 
 ## 등급
 - **A — 바로 사용:** 공개 다운로드 + '보도/편집용' 명시. 바로 쓴다.

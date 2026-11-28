@@ -103,3 +103,4 @@
 2026-11-28 | 2 | 074 | 우드스톡 무대의 마이크, 설계자는 록을 싫어했다 (Shure Unidyne III · Ernie Seeler) | shure.com/insights(the-unidyne-iii-and-ernie-seeler)
 2026-11-28 | 3 | 075 | 점심시간의 시제품이 신스를 무대로 데려갔다 (Moog Minimoog Model D, 1970) | musicradar.com, sweetwater.com/insync
 2026-11-28 | - | - | 어제(11/27) 3개 중 3개 게시. Commons 429로 사진 없음 → 3개 모두 글자 카드 해설. 슬롯2는 보도사진 없어 해설로 대체. 11/29 예비분 미제작(시간). 다음 GUIDE 예정 11/29 | -
+2026-11-29 | 3 | 076 | 소리를 줄이는 기계가 소리를 뒤집기 시작했다 (Eventide Omnipressor 1973→2023) — 보도사진 4장(Clyne Media), 운영 세션 제작 | clynemedia.com/Eventide/OmnipressorAu, clynemedia.com/Eventide/OmnipressorReissue

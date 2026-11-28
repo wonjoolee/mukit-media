@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#999;display:flex;flex-wrap:wrap;gap:40px;padding:40px;width:3700px}
+:root{--paper:#F2EFE8;--ink:#151515;--acc:#D9481F;--mute:#8B877F}
+.card{width:1080px;height:1350px;background:var(--paper);color:var(--ink);position:relative;overflow:hidden;font-family:'Noto Sans CJK KR',sans-serif}
+.dark{background:var(--ink);color:var(--paper)}
+.mono{font-family:'DejaVu Sans Mono',monospace}
+.top{position:absolute;left:64px;right:64px;top:56px;display:flex;justify-content:space-between;align-items:baseline;border-bottom:3px solid currentColor;padding-bottom:18px}
+.top .mast{font-weight:900;font-size:44px;letter-spacing:6px}
+.top .mast small{font-weight:500;font-size:26px;letter-spacing:2px;margin-left:14px}
+.top .no{font-size:26px;letter-spacing:3px}
+.foot{position:absolute;left:64px;right:64px;bottom:52px;display:flex;justify-content:space-between;font-size:22px;letter-spacing:3px;color:var(--mute)}
+.label{position:absolute;left:64px;font-size:24px;letter-spacing:4px;color:var(--acc)}
+.head{position:absolute;left:64px;right:64px;font-weight:900;line-height:1.22;letter-spacing:-1px;word-break:keep-all}
+.body{position:absolute;left:64px;right:96px;font-size:32px;line-height:1.7;font-weight:500;word-break:keep-all}
+.ph{position:absolute;display:block}
+.cr{position:absolute;font-size:19px;letter-spacing:2px;color:var(--mute)}
+.big{font-weight:700;letter-spacing:-4px;line-height:1}
+table.sp{position:absolute;left:64px;right:64px;width:952px;border-collapse:collapse;font-size:26px}
+table.sp td{border-top:2px solid var(--ink);padding:16px 0;vertical-align:top;word-break:keep-all}
+table.sp td.k{width:210px;font-family:'DejaVu Sans Mono',monospace;font-size:22px;letter-spacing:2px;color:var(--mute);padding-top:20px}
+</style></head><body>
+
+<!-- 01 COVER : 제품 사진이 주인공 -->
+<div class="card dark" id="c1">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 076</div></div>
+ <img class="ph" src="press076/Omnipressor-Flashback.jpg" style="left:0;width:1080px;top:150px">
+ <div class="mono" style="position:absolute;left:64px;top:712px;font-size:22px;letter-spacing:4px;color:#8B877F">1974 — 블랙 페이스 2830</div>
+ <div style="position:absolute;left:0;right:0;top:750px;height:250px;background:#fff"></div>
+ <img class="ph" src="Omnipressor_Model_2830Au.jpg" style="left:24px;width:1032px;top:765px">
+ <div class="mono" style="position:absolute;left:64px;top:1012px;font-size:22px;letter-spacing:4px;color:#8B877F">2023 — 복각 2830*Au · PHOTO · EVENTIDE</div>
+ <div class="head" style="top:1070px;font-size:58px">소리를 줄이는 기계가<br>소리를 뒤집기 시작했다</div>
+ <div class="foot mono"><span>GEAR / CLASSIC</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- 02 ORIGIN : 블랙 페이스 사진 -->
+<div class="card" id="c2">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 076</div></div>
+ <div class="label mono" style="top:150px">02 · 시작</div>
+ <img class="ph" src="press076/Omnipressor-Flashback.jpg" style="left:64px;width:952px;top:210px">
+ <div class="cr mono" style="left:64px;top:700px">PHOTO · EVENTIDE (FLASHBACK #3)</div>
+ <div class="head" style="top:760px;font-size:50px">워터게이트 '18분 공백'에서<br>나온 아이디어</div>
+ <div class="body" style="top:900px">1973년, 이븐타이드 창업자 리처드 팩터는 닉슨 녹음테이프의 18분 공백을 조사하던 과학자 마크 와이스와 이야기를 나누다 사이드체인 아이디어를 얻었다. 그렇게 나온 것이 옴니프레서다. 다이내믹스를 '효과'로 쓰자고 한 첫 스튜디오 장비였다.</div>
+ <div class="foot mono"><span>GEAR / CLASSIC</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- 03 AD : 만화 광고 -->
+<div class="card" id="c3">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 076</div></div>
+ <div class="label mono" style="top:150px">03 · 그때의 광고</div>
+ <img class="ph" src="press076/PresentingEventideOmnipressor.jpg" style="left:64px;height:1000px;top:210px;border:2px solid var(--ink)">
+ <div style="position:absolute;left:840px;right:64px;top:210px;font-size:30px;line-height:1.6;font-weight:700;word-break:keep-all">설명서 대신<br>만화였다.</div>
+ <div style="position:absolute;left:840px;right:56px;top:350px;font-size:24px;line-height:1.65;color:#3a3833;word-break:keep-all">사자 울음을 작게, 생쥐 소리를 크게. 한 대로 컴프레서, 익스팬더, 노이즈 게이트, 리미터, 그리고 '다이내믹 리버서'까지 된다는 걸 그림으로 풀었다.</div>
+ <div class="cr mono" style="left:64px;top:1225px">PHOTO · EVENTIDE ARCHIVE</div>
+ <div class="foot mono"><span>GEAR / CLASSIC</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- 04 HOW : 기능 -->
+<div class="card" id="c4">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 076</div></div>
+ <div class="label mono" style="top:150px">04 · 무엇이 달랐나</div>
+ <div class="head" style="top:210px;font-size:54px">작은 소리는 크게,<br>큰 소리는 작게</div>
+ <div style="position:absolute;left:64px;right:64px;top:400px">
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:0;border-top:3px solid var(--ink)">
+   <div style="padding:30px 24px 30px 0;border-bottom:2px solid var(--ink);border-right:2px solid var(--ink)"><div class="mono" style="color:var(--acc);font-size:22px;letter-spacing:3px">DYNAMIC REVERSAL</div><div style="font-size:30px;font-weight:700;margin-top:12px;line-height:1.45">다이내믹 리버설 — 세기를 거꾸로 뒤집는다</div></div>
+   <div style="padding:30px 0 30px 24px;border-bottom:2px solid var(--ink)"><div class="mono" style="color:var(--acc);font-size:22px;letter-spacing:3px">INFINITE COMP</div><div style="font-size:30px;font-weight:700;margin-top:12px;line-height:1.45">무한 압축 — 들어오는 크기와 상관없이 일정하게</div></div>
+   <div style="padding:30px 24px 30px 0;border-right:2px solid var(--ink)"><div class="mono" style="color:var(--acc);font-size:22px;letter-spacing:3px">VARIABLE GATE</div><div style="font-size:30px;font-weight:700;margin-top:12px;line-height:1.45">가변 게이트 — 문턱 아래를 닫는다</div></div>
+   <div style="padding:30px 0 30px 24px"><div class="mono" style="color:var(--acc);font-size:22px;letter-spacing:3px">SIDE CHAIN</div><div style="font-size:30px;font-weight:700;margin-top:12px;line-height:1.45">사이드체인 — 다른 소리가 압축을 조종한다</div></div>
+  </div>
+ </div>
+ <div class="body" style="top:775px;font-size:29px">지금은 흔한 기능이지만 1970년대엔 설명부터 어려웠다. 화이트 페이스(2826)는 쓰기 어려웠고, 곧 블랙 페이스 2830으로 바뀌었다.</div>
+ <img class="ph" src="press076/VintageCommercial.jpg" style="left:64px;width:560px;top:895px">
+ <div style="position:absolute;left:650px;right:64px;top:895px;font-size:24px;line-height:1.6;color:#3a3833;word-break:keep-all">영국에서는 소리 예시를 담은 광고 영상까지 만들어 이 기능들을 들려줬다.</div>
+ <div class="cr mono" style="left:64px;top:1222px">PHOTO · EVENTIDE (VINTAGE COMMERCIAL)</div>
+ <div class="foot mono"><span>GEAR / CLASSIC</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- 05 NUMBER -->
+<div class="card dark" id="c5">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 076</div></div>
+ <div class="label mono" style="top:150px">05 · 숫자</div>
+ <div class="mono" style="position:absolute;left:64px;top:250px;font-size:24px;letter-spacing:4px;color:#8B877F">ORIGINAL 2830 · 중고 호가</div>
+ <div class="mono big" style="position:absolute;left:56px;top:300px;font-size:190px;color:var(--paper)">$6,000+</div>
+ <div class="mono" style="position:absolute;left:64px;top:560px;font-size:24px;letter-spacing:4px;color:#8B877F">2830*Au 복각 · 2024 권장가</div>
+ <div class="mono big" style="position:absolute;left:56px;top:610px;font-size:190px;color:var(--acc)">$1,999</div>
+ <div class="body" style="top:900px;color:#DAD5CC">원본은 몇백 대만 팔리고 단종됐다. 부품 수급이 막혔고, 무엇보다 시장에 설명하기 어려웠다. 그래서 남은 원본은 부르는 게 값이 됐고, 50년 뒤 같은 회로로 다시 나왔다.</div>
+ <div class="foot mono" style="color:#8B877F"><span>GEAR / CLASSIC</span><span>@MUKITMAG</span></div>
+</div>
+
+<!-- 06 NOTE + SPEC -->
+<div class="card" id="c6">
+ <div class="top"><div class="mast">MU<span style="color:var(--acc)">KIT</span><small>뮤킷</small></div><div class="no mono">KIT 076</div></div>
+ <div class="label mono" style="top:150px">06 · MUKIT NOTE</div>
+ <div class="head" style="top:205px;font-size:44px">컴프레서를 '정리'가 아니라<br>'연주'로 쓰고 싶다면</div>
+ <div class="body" style="top:345px;font-size:29px">원본 손그림 회로도를 그대로 살린 복각이라, 플러그인으로만 듣던 그 반응을 손으로 돌려 볼 수 있다. 드럼 룸 마이크나 보컬에 '리버설'을 걸어 보면 왜 50년 동안 회자됐는지 바로 들린다.</div>
+ <table class="sp" style="top:640px">
+  <tr><td class="k">MODEL</td><td>Eventide Omnipressor 2830*Au</td></tr>
+  <tr><td class="k">ORIGINAL</td><td>1973년 첫 출시 (2826 → 2830)</td></tr>
+  <tr><td class="k">REISSUE</td><td>AES 2023 공개 · 2024년 1월 판매 확대</td></tr>
+  <tr><td class="k">NEW</td><td>여러 대 링크, 입출력 트랜스포머 기본</td></tr>
+  <tr><td class="k">PRICE</td><td>US $1,999 (2024 권장가) · 국내가 미확인</td></tr>
+ </table>
+ <div class="mono" style="position:absolute;left:64px;right:64px;bottom:110px;font-size:19px;color:var(--mute);letter-spacing:1px;line-height:1.6">SOURCE: Eventide 보도자료(Clyne Media, 2023.10.26 · 2024.01.25)<br>PHOTO · EVENTIDE (보도용 이미지)</div>
+ <div class="foot mono"><span>GEAR / CLASSIC</span><span>@MUKITMAG</span></div>
+</div>
+</body></html>
