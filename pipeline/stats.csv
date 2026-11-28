@@ -4,10 +4,10 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-03,slot2,carousel,KIT 003 · Neve Elements,,,,,12:43
 2026-11-03,slot2,reel,KIT 003 · Neve Elements,,,,,12:43
 2026-11-04,slot1,carousel,KIT 005 · Dreadbox Alecto,,,,,08:05
-2026-11-04,slot1,reel,KIT 005 · Dreadbox Alecto,,,0,0,08:05
-2026-11-04,slot2,carousel,KIT 007 · Polyend Tracker Community Edit,,,0,0,19:55
-2026-11-04,slot2,reel,KIT 007 · Polyend Tracker Community Edit,,,0,0,19:55
-2026-11-04,slot4,carousel,KIT 006 · Behringer SP1200X,,,0,0,12:00
+2026-11-04,slot1,reel,KIT 005 · Dreadbox Alecto,,,,,08:05
+2026-11-04,slot2,carousel,KIT 007 · Polyend Tracker Community Edit,,,,,19:55
+2026-11-04,slot2,reel,KIT 007 · Polyend Tracker Community Edit,,,,,19:55
+2026-11-04,slot4,carousel,KIT 006 · Behringer SP1200X,,,,,12:00
 2026-11-05,slot1,carousel,KIT 010 · JBL 3 Series MkIII,,,0,0,09:04
 2026-11-05,slot1,reel,KIT 010 · JBL 3 Series MkIII,,,1,0,09:04
 2026-11-05,slot2,carousel,KIT 012 · Steinberg Cubase 16,,,0,0,17:30
@@ -102,3 +102,7 @@ date,slot,kind,title,type,hook,likes,comments,posted_at
 2026-11-27,slot2,reel,KIT 071 · Equal-Loudness Contours,news,question,1,0,12:10
 2026-11-27,slot3,carousel,KIT 072 · Why 44.1 kHz,news,question,0,0,21:00
 2026-11-27,slot3,reel,KIT 072 · Why 44.1 kHz,news,question,0,0,21:00
+2026-11-28,slot1,carousel,KIT 073 · Why A = 440 Hz,news,number,0,0,07:29
+2026-11-28,slot1,reel,KIT 073 · Why A = 440 Hz,news,number,1,0,07:29
+2026-11-28,slot2,carousel,KIT 074 · The Unidyne III and Ernie Seel,news,contrast,0,0,12:10
+2026-11-28,slot2,reel,KIT 074 · The Unidyne III and Ernie Seel,news,contrast,0,0,12:10
